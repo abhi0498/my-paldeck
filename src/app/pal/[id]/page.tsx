@@ -3,6 +3,36 @@ import PalAvatar from "@/components/Pals/PalAvatar";
 import { getPalById } from "@/services/pals";
 import Image from "next/image";
 import React from "react";
+import type { Metadata, ResolvingMetadata } from "next";
+
+type Props = {
+  params: { id: string };
+  searchParams: { [key: string]: string | string[] | undefined };
+};
+
+export async function generateMetadata({ params }: Props) {
+  const { id } = params;
+  const pal = await getPalById(+id);
+  return {
+    title: `${pal?.number} ${pal?.name} | PalDeck`,
+    description: pal?.lore,
+    tags: [
+      "PalDeck",
+      "Pal",
+      "PalWorld",
+      "Pals",
+      pal?.name,
+      pal?.number,
+      pal?.type_1,
+      pal?.type_2,
+      pal?.partnerSkill?.name,
+      ...(pal?.skills || [])?.map((skill) => skill.skill.name),
+    ],
+    openGraph: {
+      images: [`/images/pals/${pal?.number}.png`],
+    },
+  };
+}
 
 const Page = async ({
   params,
