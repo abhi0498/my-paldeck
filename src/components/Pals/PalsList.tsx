@@ -4,6 +4,7 @@ import { getAllPals } from "@/services/pals";
 import Image from "next/image";
 import { useState } from "react";
 import { Pal } from "@prisma/client";
+import PalAvatar from "./PalAvatar";
 
 const PalsList = ({ pals }: { pals: Pal[] }) => {
   const [search, setSearch] = useState("");
@@ -45,18 +46,7 @@ const PalCard = ({ pal }: { pal: Pal }) => {
       key={pal.id}
       className="w-full lg:w-1/4 xl:w-1/5 sm:w-1/3 flex flex-col gap-2 items-center justify-between border-2 border-gray-200 rounded-lg lg:m-4 lg:p-4"
     >
-      <Image
-        src={`/images/pals/${pal.name}.png`}
-        alt={pal.name}
-        className="rounded-full border-2 border-gray-200"
-        width={200}
-        height={200}
-        style={{
-          objectFit: "cover",
-          width: "200px",
-          height: "200px",
-        }}
-      />
+      <PalAvatar pal={pal} />
       <p className="font-bold">
         <strong>{pal.number} </strong>
         {pal.name}
