@@ -1,18 +1,33 @@
 {
-  "name": "PalDeck | All your pals in one place",
-  "short_name": "PalDeck",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "theme_color": "#747fff",
+  "background_color": "#747fff",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
+  "name": "PalDeck | PalWorld ",
+  "short_name": "PalDeck",
+  "description": "Explore the PalWorld universe and collect your favorite pals. Get information about their stats, moves, and more.",
   "icons": [
     {
-      "src": "images/types/Dark.png",
+      "src": "/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }

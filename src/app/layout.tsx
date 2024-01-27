@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 //directly get the items through the dropped items
 
 export const viewport: Viewport = {
-  themeColor: "black",
+  themeColor: "#747fff",
   // viewPort:
   //   "minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover",
   minimumScale: 1,
