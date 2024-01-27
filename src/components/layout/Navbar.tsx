@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { FiMenu } from "react-icons/fi";
 
@@ -31,7 +32,9 @@ const Navbar = () => {
           </div>
         </div>
 
-        <a className="btn btn-ghost text-xl">PalDeck</a>
+        <Link href="/" className="text-xl">
+          PalDeck
+        </Link>
       </div>
 
       <div className="navbar-end"></div>

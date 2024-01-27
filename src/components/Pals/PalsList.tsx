@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useMemo, useState } from "react";
 import PalAvatar from "./PalAvatar";
 import Link from "next/link";
+import { MdClear } from "react-icons/md";
 
 const PalsList = ({ pals }: { pals: Pal[] }) => {
   const [search, setSearch] = useState("");
@@ -45,13 +46,23 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
         </select>
 
         <button
-          className="btn btn-primary w-32"
+          className="btn btn-primary w-32 hidden sm:block"
           onClick={() => {
             setSearch("");
             setType("");
           }}
         >
           Clear
+        </button>
+
+        <button
+          className="btn btn-primary block sm:hidden"
+          onClick={() => {
+            setSearch("");
+            setType("");
+          }}
+        >
+          <MdClear />
         </button>
       </div>
       <div className="flex flex-wrap min-h-screen flex-row justify-center items-center mx-auto p-4 gap-1">
