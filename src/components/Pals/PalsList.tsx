@@ -2,9 +2,11 @@
 import { Pal, palTypesEnum } from "@prisma/client";
 import Image from "next/image";
 import { useMemo, useState } from "react";
-import PalAvatar from "./PalAvatar";
 import Link from "next/link";
 import { MdClear } from "react-icons/md";
+import dynamic from "next/dynamic";
+
+const PalAvatar = dynamic(() => import("./PalAvatar"));
 
 const PalsList = ({ pals }: { pals: Pal[] }) => {
   const [search, setSearch] = useState("");
@@ -30,6 +32,9 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
           className="input input-bordered w-full max-w-xs"
           onChange={(e) => setSearch(e.target.value)}
         />
+        <label className="invisible" htmlFor="element-selector">
+          Filter by Element
+        </label>
         <select
           className="select select-bordered w-full max-w-xs"
           onChange={(e) => setType(e.target.value)}
@@ -57,6 +62,7 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
 
         <button
           className="btn btn-primary block sm:hidden"
+          aria-label="Clear"
           onClick={() => {
             setSearch("");
             setType("");

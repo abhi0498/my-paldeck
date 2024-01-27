@@ -13,7 +13,6 @@ export const viewport: Viewport = {
   minimumScale: 1,
   initialScale: 1,
   width: "device-width",
-  userScalable: false,
   viewportFit: "cover",
 };
 export const metadata: Metadata = {
@@ -26,8 +25,8 @@ export const metadata: Metadata = {
   authors: [{ name: "Abhishek V" }],
 
   icons: [
-    { rel: "apple-touch-icon", url: "images/types/Dark.png" },
-    { rel: "icon", url: "images/types/Dark.png" },
+    { rel: "apple-touch-icon", url: "images/apple-touch-icon.png" },
+    { rel: "icon", url: "images/apple-touch-icon.png" },
   ],
 };
 

@@ -1,7 +1,8 @@
-import PalsList from "@/components/Pals/PalsList";
+// import PalsList from "@/components/Pals/PalsList";
 import { getAllPals } from "@/services/pals";
-import Image from "next/image";
-import { useState } from "react";
+import dynamic from "next/dynamic";
+
+const PalsList = dynamic(() => import("@/components/Pals/PalsList"));
 
 export default async function Home() {
   const pals = await getAllPals();
