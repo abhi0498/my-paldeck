@@ -33,7 +33,7 @@ const Navbar = () => {
         </div>
 
         <Link href="/" className="text-xl">
-          PalDeck
+          <h1>PalDeck</h1>
         </Link>
       </div>
 

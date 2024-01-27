@@ -17,7 +17,7 @@ export const viewport: Viewport = {
   viewportFit: "cover",
 };
 export const metadata: Metadata = {
-  title: "PalDeck | PalWorld",
+  title: "PalDeck | PalWorld | Data on all Pals",
   description:
     "Explore the PalWorld universe and collect your favorite pals. Get information about their stats, moves, and more.",
   generator: "PalDex",
