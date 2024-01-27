@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Lamball",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/10/T_SheepBall_icon_normal.png?width=325"
+  },
+  {
+    "name": "Cattiva",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/7/79/T_PinkCat_icon_normal.png?width=325"
+  },
+  {
+    "name": "Chikipi",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a5/T_ChickenPal_icon_normal.png?width=325"
+  },
+  {
+    "name": "Lifmunk",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/c0/T_Carbunclo_icon_normal.png?width=325"
+  },
+  {
+    "name": "Foxparks",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/bf/T_Kitsunebi_icon_normal.png?width=325"
+  },
+  {
+    "name": "Fuack",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/c5/T_BluePlatypus_icon_normal.png?width=325"
+  },
+  {
+    "name": "Sparkit",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e7/T_ElecCat_icon_normal.png?width=325"
+  },
+  {
+    "name": "Tanzee",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/f7/T_Monkey_icon_normal.png?width=325"
+  },
+  {
+    "name": "Rooby",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/10/T_FlameBambi_icon_normal.png?width=325"
+  },
+  {
+    "name": "Pengullet",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0e/T_Penguin_icon_normal.png?width=325"
+  },
+  {
+    "name": "Penking",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/6/69/T_CaptainPenguin_icon_normal.png?width=325"
+  },
+  {
+    "name": "Jolthog",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/23/T_Hedgehog_icon_normal.png?width=325"
+  },
+  {
+    "name": "Jolthog Cryst",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/81/T_Hedgehog_Ice_icon_normal.png?width=640"
+  },
+  {
+    "name": "Gumoss",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/6/61/T_PlantSlime_icon_normal.png?width=325"
+  },
+  {
+    "name": "Vixy",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/47/T_CuteFox_icon_normal.png?width=325"
+  },
+  {
+    "name": "Hoocrates",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/b8/T_WizardOwl_icon_normal.png?width=325"
+  },
+  {
+    "name": "Teafant",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/c3/T_Ganesha_icon_normal.png?width=325"
+  },
+  {
+    "name": "Depresso",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/80/T_NegativeKoala_icon_normal.png?width=325"
+  },
+  {
+    "name": "Cremis",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/43/T_WoolFox_icon_normal.png?width=325"
+  },
+  {
+    "name": "Daedream",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/81/T_DreamDemon_icon_normal.png?width=325"
+  },
+  {
+    "name": "Rushoar",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e8/T_Boar_icon_normal.png?width=325"
+  },
+  {
+    "name": "Nox",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/4c/T_NightFox_icon_normal.png?width=640"
+  },
+  {
+    "name": "Fuddler",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/fb/T_CuteMole_icon_normal.png?width=640"
+  },
+  {
+    "name": "Killamari",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/8a/T_NegativeOctopus_icon_normal.png?width=640"
+  },
+  {
+    "name": "Mau",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/19/T_Bastet_icon_normal.png?width=640"
+  },
+  {
+    "name": "Mau Cryst",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/ad/T_Bastet_Ice_icon_normal.png?width=640"
+  },
+  {
+    "name": "Celaray",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/ed/T_FlyingManta_icon_normal.png?width=640"
+  },
+  {
+    "name": "Direhowl",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/26/T_Garm_icon_normal.png?width=640"
+  },
+  {
+    "name": "Tocotoco",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0c/T_ColorfulBird_icon_normal.png?width=640"
+  },
+  {
+    "name": "Flopie",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/4a/T_FlowerRabbit_icon_normal.png?width=640"
+  },
+  {
+    "name": "Mozzarina",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e7/T_CowPal_icon_normal.png?width=640"
+  },
+  {
+    "name": "Bristla",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/ef/T_LittleBriarRose_icon_normal.png?width=640"
+  },
+  {
+    "name": "Gobfin",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/ba/T_SharkKid_icon_normal.png?width=640"
+  },
+  {
+    "name": "Gobfin Ignis",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/09/T_SharkKid_Fire_icon_normal.png?width=640"
+  },
+  {
+    "name": "Hangyu",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1b/T_WindChimes_icon_normal.png?width=640"
+  },
+  {
+    "name": "Hangyu Cryst",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/5/50/T_WindChimes_Ice_icon_normal.png?width=640"
+  },
+  {
+    "name": "Mossanda",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/ab/T_GrassPanda_icon_normal.png?width=640"
+  },
+  {
+    "name": "Mossanda Lux",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e6/T_GrassPanda_Electric_icon_normal.png?width=640"
+  },
+  {
+    "name": "Woolipop",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/99/T_SweetsSheep_icon_normal.png?width=640"
+  },
+  {
+    "name": "Caprity",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/ba/T_BerryGoat_icon_normal.png?width=640"
+  },
+  {
+    "name": "Melpaca",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/99/T_Alpaca_icon_normal.png?width=640"
+  },
+  {
+    "name": "Eikthyrdeer",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1b/T_Deer_icon_normal.png?width=640"
+  },
+  {
+    "name": "Eikthyrdeer Terra",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/9f/T_Deer_Ground_icon_normal.png?width=640"
+  },
+  {
+    "name": "Nitewing",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/44/T_HawkBird_icon_normal.png?width=640"
+  },
+  {
+    "name": "Ribunny",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e9/T_PinkRabbit_icon_normal.png?width=640"
+  },
+  {
+    "name": "Incineram",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0b/T_Baphomet_icon_normal.png?width=640"
+  },
+  {
+    "name": "Incineram Noct",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/be/T_Baphomet_Dark_icon_normal.png?width=640"
+  },
+  {
+    "name": "Cinnamoth",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a5/T_CuteButterfly_icon_normal.png?width=640"
+  },
+  {
+    "name": "Arsox",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/5/5b/T_FlameBuffalo_icon_normal.png?width=640"
+  },
+  {
+    "name": "Dumud",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a1/T_LazyCatfish_icon_normal.png?width=640"
+  },
+  {
+    "name": "Cawgnito",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/9a/T_DarkCrow_icon_normal.png?width=640"
+  },
+  {
+    "name": "Leezpunk",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/10/T_LizardMan_icon_normal.png?width=640"
+  },
+  {
+    "name": "Leezpunk Ignis",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/85/T_LizardMan_Fire_icon_normal.png?width=640"
+  },
+  {
+    "name": "Loupmoon",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1e/T_Werewolf_icon_normal.png?width=640"
+  },
+  {
+    "name": "Galeclaw",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0b/T_Eagle_icon_normal.png?width=640"
+  },
+  {
+    "name": "Robinquill",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/8d/T_RobinHood_icon_normal.png?width=640"
+  },
+  {
+    "name": "Robinquill Terra",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/45/T_RobinHood_Ground_icon_normal.png?width=640"
+  },
+  {
+    "name": "Gorirat",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/fa/T_Gorilla_icon_normal.png?width=640"
+  },
+  {
+    "name": "Beegarde",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/cc/T_SoldierBee_icon_normal.png?width=640"
+  },
+  {
+    "name": "Elizabee",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/db/T_QueenBee_icon_normal.png?width=640"
+  },
+  {
+    "name": "Grintale",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/5/50/T_NaughtyCat_icon_normal.png?width=640"
+  },
+  {
+    "name": "Swee",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/fc/T_MopBaby_icon_normal.png?width=640"
+  },
+  {
+    "name": "Sweepa",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/6/65/T_MopKing_icon_normal.png?width=640"
+  },
+  {
+    "name": "Chillet",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/da/T_WeaselDragon_icon_normal.png?width=640"
+  },
+  {
+    "name": "Univolt",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/ac/T_Kirin_icon_normal.png?width=640"
+  },
+  {
+    "name": "Foxcicle",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/83/T_IceFox_icon_normal.png?width=640"
+  },
+  {
+    "name": "Pyrin",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/7/7c/T_FireKirin_icon_normal.png?width=640"
+  },
+  {
+    "name": "Pyrin Noct",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/ca/T_FireKirin_Dark_icon_normal.png?width=640"
+  },
+  {
+    "name": "Reindrix",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/9e/T_IceDeer_icon_normal.png?width=640"
+  },
+  {
+    "name": "Rayhound",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/af/T_ThunderDog_icon_normal.png?width=640"
+  },
+  {
+    "name": "Kitsun",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/f9/T_AmaterasuWolf_icon_normal.png?width=640"
+  },
+  {
+    "name": "Dazzi",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/81/T_RaijinDaughter_icon_normal.png?width=640"
+  },
+  {
+    "name": "Lunaris",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/d2/T_Mutant_icon_normal.png?width=640"
+  },
+  {
+    "name": "Dinossom",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a4/T_FlowerDinosaur_icon_normal.png?width=640"
+  },
+  {
+    "name": "Dinossom Lux",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/d4/T_FlowerDinosaur_Electric_icon_normal.png?width=640"
+  },
+  {
+    "name": "Surfent",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/fd/T_Serpent_icon_normal.png?width=640"
+  },
+  {
+    "name": "Surfent Terra",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/26/T_Serpent_Ground_icon_normal.png?width=640"
+  },
+  {
+    "name": "Maraith",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/9/93/T_GhostBeast_icon_normal.png?width=640"
+  },
+  {
+    "name": "Digtoise",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/7/7a/T_DrillGame_icon_normal.png?width=640"
+  },
+  {
+    "name": "Tombat",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/d8/T_CatBat_icon_normal.png?width=640"
+  },
+  {
+    "name": "Lovander",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/3/37/T_PinkLizard_icon_normal.png?width=640"
+  },
+  {
+    "name": "Flambelle",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/5/56/T_LavaGirl_icon_normal.png?width=640"
+  },
+  {
+    "name": "Vanwyrm",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0d/T_BirdDragon_icon_normal.png?width=640"
+  },
+  {
+    "name": "Vanwyrm Cryst",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/6/6c/T_BirdDragon_Ice_icon_normal.png?width=640"
+  },
+  {
+    "name": "Bushi",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/82/T_Ronin_icon_normal.png?width=640"
+  },
+  {
+    "name": "Beakon",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/07/T_ThunderBird_icon_normal.png?width=640"
+  },
+  {
+    "name": "Ragnahawk",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a9/T_RedArmorBird_icon_normal.png?width=640"
+  },
+  {
+    "name": "Katress",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/bd/T_CatMage_icon_normal.png?width=640"
+  },
+  {
+    "name": "Wixen",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/2a/T_FoxMage_icon_normal.png?width=640"
+  },
+  {
+    "name": "Verdash",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/be/T_GrassRabbitMan_icon_normal.png?width=640"
+  },
+  {
+    "name": "Vaelet",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/80/T_VioletFairy_icon_normal.png?width=640"
+  },
+  {
+    "name": "Sibelyx",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/f4/T_WhiteMoth_icon_normal.png?width=640"
+  },
+  {
+    "name": "Elphidran",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/c5/T_FairyDragon_icon_normal.png?width=640"
+  },
+  {
+    "name": "Elphidran Aqua",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/22/T_FairyDragon_Water_icon_normal.png?width=640"
+  }
+]

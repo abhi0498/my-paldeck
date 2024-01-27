@@ -1,0 +1,7617 @@
+[
+  {
+    "name": "Lamball",
+    "lore": "A walk up a hill tends to end with this Pal tumbling back down. This causes it to become dizzy and unable to move, making it easy to capture and kill. As a result, this Pal has tumbled down to the very bottom of the food chain itself.",
+    "title": "Big Floof",
+    "number": "#001",
+    "partnerSkill": {
+      "name": "Fluffy Shield",
+      "description": "When activated, equips to the player and becomes a shield. Sometimes drops wool when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Roly Poly"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Implode"
+      },
+      {
+        "level": "Level 30",
+        "name": "Electric Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wool", "Lamball Mutton"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Cattiva",
+    "lore": "At a glance it appears confident, but it is in fact weak and cowardly. Being toyed with by Cattiva is in many ways the greatest of disgraces.",
+    "title": "The Cat's Pajamas",
+    "number": "#002",
+    "partnerSkill": {
+      "name": "Cat Helper",
+      "description": "While in a team, Cattiva helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Punch Flurry"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 40",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Red Berries"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Chikipi",
+    "lore": "Extremely weak and far too delicious. It is one of the weakest Pals alongside Lamball. No matter how many are hunted, they just keep appearing.",
+    "title": "Plump & Juicy",
+    "number": "#003",
+    "partnerSkill": {
+      "name": "Egg Layer",
+      "description": "Sometimes lays an egg when assigned to Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Chicken Rush"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Implode"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Flare Storm"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Egg", "Chikipi Poultry"],
+    "food": "1",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Lifmunk",
+    "lore": "Intelligent as a five to seven-year-old human child. It makes a wonderful partner, but there have been more then a few cases where they've killed their master after learning to use weapons.",
+    "title": "Coward of the Steppe",
+    "number": "#004",
+    "partnerSkill": {
+      "name": "Lifmunk Recoil",
+      "description": "When activated, leaps onto the player's head and uses a submachine gun to follow up player attacks."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Berry Seeds", "Low Grade Medical Supplies"],
+    "food": "1",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Foxparks",
+    "lore": "It is unskilled at controlling fire from the moment it is born and tends to choke on the flames it breathes unintentionally. Foxparks sneezes are one of the leading causes of forest fires.",
+    "title": "Revealer of Paths",
+    "number": "#005",
+    "partnerSkill": {
+      "name": "Huggy Fire",
+      "description": "When activated, equips the player and transforms into a flamethrower."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Flame Organ"],
+    "food": "2",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Fuack",
+    "lore": "Using its own body water, this pal can create waves anywhere. its body surfs when in a hurry, but the resulting speed often ends in a fatal collision.",
+    "title": "Rowdy Wave Ripper",
+    "number": "#006",
+    "partnerSkill": {
+      "name": "Surfing Slam",
+      "description": "When activated, Fuack body surfs toward an enemy and slams into them."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 30",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Pal Fluids"],
+    "food": "2",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Sparkit",
+    "lore": "It is always on edge during the dry season. Sparks can fly with even the slightest provocation, even amongst allies.",
+    "title": "Livewire Tabby",
+    "number": "#007",
+    "partnerSkill": {
+      "name": "Static Electricity",
+      "description": "While in a team, increases the attack power of Electric Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 22",
+        "name": "Electric Ball"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "2",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Tanzee",
+    "lore": "Long ago, this Pal used long objects like tree branches as weapons. After coming into contact with humans, however, it found something much more effective: guns.",
+    "title": "Dexterous Primate",
+    "number": "#008",
+    "partnerSkill": {
+      "name": "Cheery Rifle",
+      "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Mushroom"],
+    "food": "2",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Rooby",
+    "lore": "Wild Rooby surprisingly never get sick. Eating one piece of charcoal a day, made by burning a branch, is the secret to its eternal health.",
+    "title": "Chief of the Herd",
+    "number": "#009",
+    "partnerSkill": {
+      "name": "Tiny Spark",
+      "description": "While in a team, increases attack power of \nFire\n Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "Leather"],
+    "food": "3",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Pengullet",
+    "lore": "Its wings have degraded substantially, and it cannot fly. Yet it has lingering sentiment for the skies in its DNA, and sometimes tries to fly again.",
+    "title": "Ate Too Much",
+    "number": "#010",
+    "partnerSkill": {
+      "name": "Pengullet Cannnon",
+      "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 15",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Ice Organ"],
+    "food": "2",
+    "type_1": "Water",
+    "type_2": "Ice"
+  },
+  {
+    "name": "Penking",
+    "lore": "Surprisingly, it is unrelated to Pengullet. Ever wanting attention, this Pal will strut its stuff for any onlookers.",
+    "title": "Pioneer of the Frozen Sea",
+    "number": "#011",
+    "partnerSkill": {
+      "name": "Brave Sailor",
+      "description": "While fighting together, Fire Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 15",
+        "name": "Emperor Slide"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Ice Organ", "Penking Plume"],
+    "food": "8",
+    "type_1": "Water",
+    "type_2": "Ice"
+  },
+  {
+    "name": "Jolthog",
+    "lore": "It releases the electricity stored in its body when under attack, producing a shock that can be over 10 million volts. If thrown, it can be more lethal then any conventional heavy weaponry.",
+    "title": "Don't Touch!",
+    "number": "#012",
+    "partnerSkill": {
+      "name": "Biribiri Bombs",
+      "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electric explosion upon impact."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Electric Ball"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "2",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Jolthog Cryst",
+    "lore": "It releases the cold air stored in its body when under attack. The frigid blast it radiates is cold enough to freeze the surrounding air and easily pierces through any attacker's body.",
+    "title": "Watch Your Feet!",
+    "number": "#012B",
+    "partnerSkill": {
+      "name": "Cold Bomb",
+      "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Ice Organ"],
+    "food": "2",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Gumoss",
+    "lore": "A strange pal with a body resembling tree sap. It gradually loses strength if it has nothing to cover its body with, eventually rotting away.",
+    "title": "Suddenly Transformed",
+    "number": "#013",
+    "partnerSkill": {
+      "name": "Logging Assistance",
+      "description": "While in a team, improves efficiency of cutting trees."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Berry Seeds", "Gumoss Leaf"],
+    "food": "1",
+    "type_1": "Grass",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Vixy",
+    "lore": "The idol of Palpagos Islands. If you bully a Vixy, you best be prepared to become enemies with the whole world.",
+    "title": "Star of the Steppe",
+    "number": "#014",
+    "partnerSkill": {
+      "name": "Dig Here!",
+      "description": "Sometimes digs up items from the ground when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Bone"],
+    "food": "1",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Hoocrates",
+    "lore": "Often lost in thought, it sometimes finds it difficult to sleep. \"I think, therefore I am.\"",
+    "title": "Purveyor of Wisdom",
+    "number": "#015",
+    "partnerSkill": {
+      "name": "Dark Knowledge",
+      "description": "While in a team, increases attack power of Dark Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Fiber", "High Grade Technical Manual"],
+    "food": "3",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Teafant",
+    "lore": "Large amounts of water pour from what is thought to be its nose, though some say that it is, in fact, just snot. This has sparked a fierce debate among Pal scholars.",
+    "title": "Adorable Watering Can",
+    "number": "#016",
+    "partnerSkill": {
+      "name": "Soothing Shower",
+      "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "2",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Depresso",
+    "lore": "It has few friends because of the perpetually grouchy look on its face, but it is in fact kindhearted. Some have seen it feeding Vixy who have strayed from their pack.",
+    "title": "Several Sleepless Nights Later",
+    "number": "#017",
+    "partnerSkill": {
+      "name": "Caffeine Inoculation",
+      "description": "When activated, Depresso chugs a bunch of energy drinks, drastically increasing its movement speed for a certain time."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 30",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Venom Gland"],
+    "food": "2",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Cremis",
+    "lore": "Compared to Lamball, it has finer wool and a temperament more suited for domestication. However, it has historically always been kept as a pet. Cuteness is considered a virtue.",
+    "title": "Darling Furball",
+    "number": "#018",
+    "partnerSkill": {
+      "name": "Fluffy Wool",
+      "description": "While in a team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wool"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Daedream",
+    "lore": "It puts those it is interested in to sleep and shows them an endless stream of happy dreams. Those who fall under its spell are never to wake until death takes them.",
+    "title": "Dream Eater",
+    "number": "#019",
+    "partnerSkill": {
+      "name": "Dream Chaser",
+      "description": "While in a team, appears near the player. Follows up player attacks with magic bullets."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Venom Gland", "Small Pal Soul"],
+    "food": "3",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Rushoar",
+    "lore": "Being an extremely aggressive Pal, it often picks fights before gauging its opponent's strength. Though small, its powerful charge can even send boulders flying.",
+    "title": "Woodland Ruffian",
+    "number": "#020",
+    "partnerSkill": {
+      "name": "Hard Head",
+      "description": "Can be ridden. Increases efficiency of destroying boulders while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Reckless Charge"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Rushoar Pork", "Leather", "Bone"],
+    "food": "3",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Nox",
+    "lore": "If you find Nox hair in your bedding, you should leave it where it lays and leave immediately. Picking it up is a one-way ticket to a never ending night.",
+    "title": "Dusken Aristocrat",
+    "number": "#021",
+    "partnerSkill": {
+      "name": "Kuudere",
+      "description": "When fighting together, applies Dark damage to the player's attacks."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Small Pal Soul"],
+    "food": "2",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Fuddler",
+    "lore": "Its large claws boast diamond-like hardness. However, sharpening these claws consumes most of its energy, leading it to sometimes spend entire days doing nothing else.",
+    "title": "Underground Explorer",
+    "number": "#022",
+    "partnerSkill": {
+      "name": "Ore Detector",
+      "description": "When activated, generates subtle variations to detect nearby ore."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather"],
+    "food": "2",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Killamari",
+    "lore": "It wraps itself around an enemy's head, sucking out their insides. Pal mummies are occasionally found, but these are in fact Killamari victims.",
+    "title": "Emotionless",
+    "number": "#023",
+    "partnerSkill": {
+      "name": "Fried Squid",
+      "description": "While in a team, it can be summoned and used as a glider. It can float for long periods of time while gliding."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 22",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Venom Gland"],
+    "food": "3",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Mau",
+    "lore": "Its hard tail does not deteriorate even when cut off. Some believed these severed tails to be good luck but, for the innumerable Mau who where poached as a result, they where anything but.",
+    "title": "Noble Glimmer",
+    "number": "#024",
+    "partnerSkill": {
+      "name": "Gold Digger",
+      "description": "Sometimes digs up Gold Coin when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Gold Coin"],
+    "food": "1",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Mau Cryst",
+    "lore": "Its crystalline tail is beautiful, but shatters when this Pal dies. Some believe it is good luck to raise one, so Mau Cryst in captivity are treated with great care.",
+    "title": "Serene Glimmer",
+    "number": "#024B",
+    "partnerSkill": {
+      "name": "Gold Digger",
+      "description": "Sometimes digs up Gold Coin when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Ice Organ", "Sapphire"],
+    "food": "1",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Celaray",
+
+    "lore": "Riding the wind, this Pal travels where it pleases. Should it find a partner along the way, the encounter will mark its journey's end.",
+    "number": "#025",
+    "partnerSkill": {
+      "name": "Zephyr Glider",
+      "description": "While in a team, it can be summoned and used instead of a glider. Allows you to move quickly for long periods of time while gliding with this Pal."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "3",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Direhowl",
+    "lore": "Long ago, Direhowl would hunt alongside humans. But over the years this bond faded.",
+    "title": "Hunter of the Steppe",
+    "number": "#026",
+    "partnerSkill": {
+      "name": "Direhowl Rider",
+      "description": "Can be ridden.\n\nMoves slightly faster than most mounts."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Fierce Fang"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Ruby", "Gold Coin"],
+    "food": "3",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Tocotoco",
+    "lore": "A frightening Pal that produces exploding eggs. It often fires these eggs from its rear end as a weapon, but when spent the Pal itself explodes.",
+    "title": "Boom or Bust",
+    "number": "#027",
+    "partnerSkill": {
+      "name": "Eggbomb Launcher",
+      "description": "When activated, equips to the player and transforms into an egg launcher."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Implode"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Megaton Implode"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Gunpowder", "Tocotoco Feather"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Flopie",
+    "lore": "It prefers places that have an abundance of vegetation, but hay fever has apparently become a problem for Flopie as of late.",
+    "number": "#028",
+    "partnerSkill": {
+      "name": "Helper Bunny",
+      "description": "While in a team, appears nearby the player. Automatically picks up nearby items."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 30",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Low Grade Medical Supplies", "Wheat Seeds"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Mozzarina",
+    "lore": "Milk pours from this Pal like water from an open faucet, regardless of its gender. It's truly a mystery of life, although this mystery may be better left unsolved.",
+    "title": "Grade A Beef",
+    "number": "#029",
+    "partnerSkill": {
+      "name": "Milk Maker",
+      "description": "Sometimes produces Milk when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Mozzarina Meat", "Milk"],
+    "food": "3",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Bristla",
+    "lore": "This prickly Pal's thorns are highly poisonous. It is friendly with Cinnamoth and only smiles when a Cinnamoth is drinking its nectar.",
+    "title": "Thorny Rose",
+    "number": "#030",
+    "partnerSkill": {
+      "name": "Princess Gaze",
+      "description": "While in a team, increases attack power of Grass Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 22",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wheat Seeds", "Lettuce Seeds"],
+    "food": "5",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Gobfin",
+    "lore": "Long ago, it was a large and powerful aquatic Pal. As food become scarce, it evolved to live on land. Since walking requires much energy, it gradually became smaller and is now a small and puny Pal.",
+    "title": "Sea Thug",
+    "number": "#031",
+    "partnerSkill": {
+      "name": "Angry Shark",
+      "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in a team, increases player's attack power."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "3",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Gobfin Ignis",
+    "lore": "Once upon a time, it was a giant and powerful aquatic Pal. However, with the dwindling availability of food, it ventured onto land. As a consequence of burning many calories to walk, it astonishingly awakened its power to control fire!",
+    "title": "Volcano Thug",
+    "number": "#031B",
+    "partnerSkill": {
+      "name": "Angry Shark",
+      "description": "When activated, atacks targeted enemy with a powerful Spirit Fire. While in a team, increases player's attack power."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Ignis Rage"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "3",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Hangyu",
+    "lore": "Its strong arms can rip apart even iron. As a particularly cruel form of execution, serious criminals would be strung up in a public square, and a Hangyu would rip off the skin from their bones.",
+    "title": "Bringer of Luck",
+    "number": "#032",
+    "partnerSkill": {
+      "name": "Flying Trapeze",
+      "description": "While in a team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Fiber"],
+    "food": "2",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Hangyu Cryst",
+    "lore": "Its gigantic arms can tear through blocks of ice. There were times when great sinners were tied in the town square and had their hair torn out by Hangyu Cryst as a brutal form of public humiliation.",
+    "title": "Glacial Harbinger",
+    "number": "#32B",
+    "partnerSkill": {
+      "name": "Winter Trapeze",
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 7",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 15",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 22",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 30",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 40",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 50",
+        "name": "Under investigation."
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Fiber", "Ice Organ"],
+    "food": "???",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Mossanda",
+    "lore": "A Pal so powerful it's hard to believe. In one experiment, this pal tore through 3,000 pieces of paper at once! It's only by some miracle this Pal isn't a meat-eater.",
+    "title": "Guardian of the Forest",
+    "number": "#033",
+    "partnerSkill": {
+      "name": "Grenadier Panda",
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 22",
+        "name": "Crushing Punch"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Mushroom", "Leather", "Tomato Seeds"],
+    "food": "5",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Mossanda Lux",
+    "lore": "A Pal whose power is truly shocking. By altering the electrical currents in its body, this Pal has been able to overload its own strength. When it comes to sheer power, this Pal may be top of the list.",
+    "title": "Inheritor of the Storm",
+    "number": "#033B",
+    "partnerSkill": {
+      "name": "Grenadier Panda",
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 15",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 22",
+        "name": "Blast Punch"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Mushroom", "Electric Organ", "Leather"],
+    "food": "5",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Woolipop",
+    "lore": "Its entire body is 18,000 times sweeter then sugar.",
+    "title": "Giant Cotton Candy",
+    "number": "#034",
+    "partnerSkill": {
+      "name": "Candy Pop",
+      "description": "Sometimes drop Cotton Candy when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Cotton Candy", "High Quality Pal Oil"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Caprity",
+    "lore": "The shrub on this Pal's back produces berries as long as it's properly fed. It offers these berries to potential mates, and if the flavor is to their liking, romance blossoms.",
+    "number": "#035",
+    "partnerSkill": {
+      "name": "Berry Picker",
+      "description": "Sometimes drops Red Berries from its back when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Caprity Meat", "Red Berries", "Horn"],
+    "food": "4",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Melpaca",
+    "lore": "Don't be fooled by its fluffy appearance. A hypersonic kick from one of its long legs may send you flying to the other side of the world.",
+    "number": "#036",
+    "partnerSkill": {
+      "name": "Pecapaca Wool",
+      "description": "Can be ridden.\n\nSometimes drop Wool when assigned to a Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Fluffy Tackle"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 30",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wool", "Leather"],
+    "food": "3",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Eikthyrdeer",
+    "lore": "The one who possesses the most impressive antlers becomes the leader of the herd. If their antlers are broken, they become depressed and leave the herd, never to be seen again.",
+    "title": "Protector of the Herd",
+    "number": "#037",
+    "partnerSkill": {
+      "name": "Guardian of the Forest",
+      "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Antler Uppercut"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Eikthyrdeer Venison", "Leather", "Horn"],
+    "food": "5",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Eikthyrdeer Terra",
+    "lore": "The individual with the hardest horns becomes the leader. once the horns are lost, so too is its leadership status. it leaves the herd amidst farewell glances and quickly returns to the earth.",
+    "title": "Antlers of Gold",
+    "number": "#037B",
+    "partnerSkill": {
+      "name": "Guardian of the Golden Forest",
+      "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Antler Uppercut"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Eikthyrdeer Venison", "Leather", "Horn"],
+    "food": "5",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Nitewing",
+    "lore": "It carries newborn Pals to its nest and raises them as a surrogate parent. Once the baby Pal is of eating age, it hunts them.",
+    "title": "Wings of the Firmament",
+    "number": "#038",
+    "partnerSkill": {
+      "name": "Travel Companion",
+      "description": "Can be ridden as a flying mount."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Tornado Attack"
+      },
+      {
+        "level": "Level 15",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather"],
+    "food": "7",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Ribbuny",
+    "lore": "A Pal who's never without a bright smile. Occasionally, it gets its tentacles tied up in knots by Cattiva's pranks. During those moments, its expression changes to something altogether demonic.",
+    "title": "Heart-melting Smile",
+    "number": "#039",
+    "partnerSkill": {
+      "name": "Skilled Fingers",
+      "description": "While in team, increases attack power of Neutral Pals. While at a base increases efficiency if working at Weapon Workbench."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 22",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Beautiful Flower"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Incineram",
+    "lore": "In the dark of night, this pal snatches pray to bring back to its territory. what happens to those poor souls afterwards isn't to hard to imagine.",
+    "title": "Hyena of the Wild",
+    "number": "#040",
+    "partnerSkill": {
+      "name": "Flameclaw Hunter",
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Hellfire Claw"
+      },
+      {
+        "level": "Level 30",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Ignis Rage"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Horn", "Leather"],
+    "food": "4",
+    "type_1": "Fire",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Incineram Noct",
+    "lore": "It specifically targets baby pals, taking them back to its territory. One can only imagine the profound despair of the parent Pal, whose child has been taken away.",
+    "title": "Hyena of the Darkest Night",
+    "number": "#040B",
+    "partnerSkill": {
+      "name": "Darkclaw Hunter",
+      "description": "When activated, attacks targeted enemy with a powerful Swallow Kite."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Hellfire Claw"
+      },
+      {
+        "level": "Level 30",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Ignis Rage"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Horn", "Leather"],
+    "food": "4",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Cinnamoth",
+    "lore": "Sniffing its scales produces a feeling of unparalleled euphoria. There was some effort to further regulate this byproduct, but the Free Pal Alliance have vehemently opposed these measures, putting a stop to them.",
+    "title": "Butterfly Promenade",
+    "number": "#041",
+    "partnerSkill": {
+      "name": "Mysterious Scales",
+      "description": "When activated, attacks targeted enemy with Poison Fog."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Poison Fog"
+      },
+      {
+        "level": "Level 22",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Honey", "Lettuce Seeds", "Wheat Seeds"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Arsox",
+    "lore": "In ancient times, carnivorous Pals pursued them relentlessly. The absurd fury in the cries of Arsox transformed into a raging inferno, which has been passed on to this day.",
+    "title": "Blazing Brute",
+    "number": "#042",
+    "partnerSkill": {
+      "name": "Warm Body",
+      "description": "Can be ridden.\n\nKeeps the rider warm in cold environments."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Blazing Horn"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Horn", "Flame Organ"],
+    "food": "5",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Dumud",
+    "lore": "When too relaxed, its reaction time drastically declines. Even if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
+    "title": "Perpetual Procrastinator",
+    "number": "#043",
+    "partnerSkill": {
+      "name": "Soil Improver",
+      "description": "While in team, increases attack power of \nGround\n Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 7",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 15",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 22",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 30",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 40",
+        "name": "Under investigation."
+      },
+      {
+        "level": "Level 50",
+        "name": "Under investigation."
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Raw Dumud", "High Quality Pal Oil"],
+    "food": "4",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Cawgnito",
+    "lore": "Long ago it freely soared the skies. After losing a contest with Galeclaw, it abandoned the skies and now lives a quiet nocturnal life.",
+    "title": "Shadow-cloaked Schemer",
+    "number": "#044",
+    "partnerSkill": {
+      "name": "Telepeck",
+      "description": "When activated, attacks targeted enemy with a powerful Phantom Peck"
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Phantom Black"
+      },
+      {
+        "level": "Level 22",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Bone", "Venom Gland", "Small Pal Soul"],
+    "food": "5",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Leezpunk",
+    "lore": "A Pal that always takes great care to maintain a stylish stance. Always on the hunt for the coolest poses, if given a mirror it will spend all day posing in front of it.",
+    "title": "Self-proclaimed Genius",
+    "number": "#045",
+    "partnerSkill": {
+      "name": "Sixth Sense",
+      "description": "When activated, utilizes a sixth sense to detect nearby dungeons."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Copper Key", "Silver Key"],
+    "food": "3",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Leezpunk Ignis",
+    "lore": "A Pal that has an unusual obsession with their standing posture. Always in search of the hottest pose, this Pal's owner is constantly presented with fervent stances.",
+    "title": "Self-proclaimed Fashionista",
+    "number": "#045B",
+    "partnerSkill": {
+      "name": "Sixth Sense",
+      "description": "When activated, utilizes a sixth sense to detect nearby dungeons."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "Silver Key"],
+    "food": "3",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Loupmoon",
+    "lore": "The horns on its head grow under the moonlight. It doesn't hate the sun, but its horns itch when sunlight hits them.",
+    "title": "Enraptured by Moonlight",
+    "number": "#046",
+    "partnerSkill": {
+      "name": "Claws Glistening in the Dark",
+      "description": "When activated, attacks targeted enemy with a powerful Jumping Claw."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 7",
+        "name": "Jumping Claw"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Bone"],
+    "food": "5",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Galeclaw",
+    "lore": "A pal that can easily take flight even when grasping a human. it is, however, prone to letting go when tired, which has led to the sudden demise of more then a few souls.",
+    "title": "Proud Courier",
+    "number": "#047",
+    "partnerSkill": {
+      "name": "Galeclaw Rider",
+      "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Gale Claw"
+      },
+      {
+        "level": "Level 7",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Galeclaw Poultry", "Leather"],
+    "food": "4",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Robinquill",
+    "lore": "A pal that is very similar to humans who hunt and live in the forests. It may prove to be a key for understanding what Pals are and how they diverged from humans so long ago.",
+    "title": "Archer of the Forest",
+    "number": "#048",
+    "partnerSkill": {
+      "name": "Hawk Eye",
+      "description": "When fighting together, increases damage player deals to enemy weak points."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Focus Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Wheat Seeds", "Arrow"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Robinquill Terra",
+    "lore": "A Pal that lives a hunting life in rocky areas and is very close to humans. When Robinquill Terra bones are found in ruins, there are always human bones found nearby as well.",
+    "title": "Archer of the Sands",
+    "number": "#048B",
+    "partnerSkill": {
+      "name": "Hawk Eye",
+      "description": "While fighting together, allows you to deal more damage to weak points."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Focus Shot"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Solar Blast"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Wheat Seeds", "Arrow"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Gorirat",
+    "lore": "It beats the ground rhythmically to communicate with its comrades. The meaning of each rhythm differs by troop, but the distinction between them is still largely unknown.",
+    "title": "Jungle Punk",
+    "number": "#049",
+    "partnerSkill": {
+      "name": "Full-power Gorilla Mode",
+      "description": "When activated, unleashes a primal fury that increases Gorirat's attack power."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Ground Pound"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Leather", "Bone"],
+    "food": "3",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Beegarde",
+    "lore": "A servant that pledges loyalty to Elizabee. Any that cause harm to the queen are immediately expelled from the hive. It will gladly give its life to protect its queen.",
+    "title": "Guardian Commander",
+    "number": "#050",
+    "partnerSkill": {
+      "name": "Worker Bee",
+      "description": "Sometimes drop Honey when assigned to Ranch.\n\nWhile in team, Elizabee's stats will be increased."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Bee Quiet"
+      },
+      {
+        "level": "Level 22",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 40",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Honey"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Elizabee",
+    "lore": "A chosen queen to rule over Beegardes. There is a never ending stream of servants willing to work themselves to death for the pleasure of serving their queen.",
+    "title": "Empress of the Hive",
+    "number": "#051",
+    "partnerSkill": {
+      "name": "Queen Bee Command",
+      "description": "While fighting together, stats will increase the more Beegarde are in your team."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spinning Lance"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Honey", "Elizabee's Staff"],
+    "food": "7",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Grintale",
+    "lore": "Grintale's eyes light up the moment anyone enters its territory. This is no figure of speech-its eyes literally light up",
+    "title": "Marshmallow Body",
+    "number": "#052",
+    "partnerSkill": {
+      "name": "Plump Body",
+      "description": "Can be ridden.\n\nEnhances \nNeutral\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Cat Press"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 40",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil"],
+    "food": "4",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Swee",
+    "lore": "Crawling along the ground, it eats microscopic organic matter. After a while, it discharges any substances that provide no nutrition. By using it as a mop for cleaning, everyone wins!",
+    "title": "Curious Floof",
+    "number": "#053",
+    "partnerSkill": {
+      "name": "Fluffy",
+      "description": "While in team, Sweepa's stats will be increased."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wool"],
+    "food": "2",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Sweepa",
+    "lore": "While hibernating, a large number of Swee hide within its voluminous body hair. The most ever recorded is 101.",
+    "title": "Majesty of Fuzz",
+    "number": "#054",
+    "partnerSkill": {
+      "name": "King of Fluff",
+      "description": "While fighting together, stats will increase the more Swee are in your team."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 30",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Pal Blast"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Wool"],
+    "food": "3",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Chillet",
+    "lore": "It can curl its body and roll around at extremely highspeeds, long ago, people would tie bags of milk to domesticated Chillet as they grazed to produce butter using this spinning.",
+    "number": "#055",
+    "partnerSkill": {
+      "name": "Wriggling Weasel",
+      "description": "Can be ridden.\n\nApplies \nDragon\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather"],
+    "food": "3",
+    "type_1": "Ice",
+    "type_2": "Dragon"
+  },
+  {
+    "name": "Univolt",
+    "lore": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people. However, after witnesses observed one die from a lightning strike, its reverence faded, and it quite literally fell into the role of a workhorse.",
+    "title": "Swift Deity",
+    "number": "#056",
+    "partnerSkill": {
+      "name": "Swift Deity",
+      "description": "Can be ridden.\n\nApplies \nElectric\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 15",
+        "name": "Lock-on Laser"
+      },
+      {
+        "level": "Level 22",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Leather", "Electric Organ", "Horn"],
+    "food": "5",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Foxcicle",
+    "lore": "On nights when the aurora is visible, it looks up towards the sky and begins to howl a beautiful song. This does, however, leave it vulnerable to attacks from enemies.",
+    "title": "Claws of Ice",
+    "number": "#057",
+    "partnerSkill": {
+      "name": "Aurora Guide",
+      "description": "While in a team, increases attack power of \nIce\n pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather", "Ice Organ"],
+    "food": "3",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Pyrin",
+    "lore": "Its entire body has evolved into a highly efficient radiator, gifting it with astounding stamina. When someone has mounted it, this Pal takes caution not to burn them.",
+    "title": "Steed of Flames",
+    "number": "#058",
+    "partnerSkill": {
+      "name": "Red Hare",
+      "description": "Can be ridden.\n\nApplies \nFire\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Slam"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "Leather"],
+    "food": "5",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Pyrin Noct",
+    "lore": "It burns mysterious dark matter as energy and expels the remaining particles from its body. If someone rides it, they should take care so as not to gallop down the path of darkness.",
+    "title": "Steed of Darkness",
+    "number": "#058B",
+    "partnerSkill": {
+      "name": "Black Hare",
+      "description": "Can be ridden.\n\nApplies Dark damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 15",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Dark Charge"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "Leather"],
+    "food": "5",
+    "type_1": "Fire",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Reindrix",
+    "lore": "Its transparent cerulean antlers glow with the cold of absolute zero. Any who touch them with their bare hands are instantly frozen over and smashed to pieces.",
+    "title": "Beast of Blizzards",
+    "number": "#059",
+    "partnerSkill": {
+      "name": "Cool Body",
+      "description": "Can be ridden.\n\nKeeps the rider cool in hot environments."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Freezing Charge"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Reindrix Venison", "Leather", "Horn", "Ice Organ"],
+    "food": "7",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Rayhound",
+    "lore": "At full speed, it could be mistaken for a bolt of lightning. If two Rayhounds collide, the sound is like that of a powerful thunderclap.",
+    "title": "Electro-charged Zoomies",
+    "number": "#060",
+    "partnerSkill": {
+      "name": "Jumping Force",
+      "description": "Can be ridden.\n\nCan double jump while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Electric Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "5",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Kitsun",
+    "lore": "Despite its appearance, Kitsun is extremely sensitive and will flee to a cave when spooked. Long ago, it was considered an ill omen if one were found nearby.",
+    "title": "Guardian of the Azure Flame",
+    "number": "#061",
+    "partnerSkill": {
+      "name": "Clear Mind",
+      "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 22",
+        "name": "Daring Flames"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "Leather"],
+    "food": "4",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Dazzi",
+    "lore": "often kind to lonely pals. however the moment a pal mistakes this for actual companionship it seizes the opportunity to blast them with a thunderbolt.",
+    "title": "Born of the Storm",
+    "number": "#062",
+    "partnerSkill": {
+      "name": "Lady of Lightning",
+      "description": "While in team, appears near the player.\n\nFollows up the player attacks with lightning bolts."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 15",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 22",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "2",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Lunaris",
+    "lore": "It can control those who carelessly stare into its eyes, those seen with a Lunaris are in its mind, simply under its control.",
+    "title": "Extraterrestrial",
+    "number": "#063",
+    "partnerSkill": {
+      "name": "Antigravity",
+      "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Plasma Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Paldium Fragment"],
+    "food": "2",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Dinossom",
+    "lore": "A pal who once angered cannot be pacified. it rages on and on like an inferno. the phrase \"step on a Dinossom's tail\" had come to mean enraging someone.",
+    "title": "Guardian of Blossoming Gardens",
+    "number": "#064",
+    "partnerSkill": {
+      "name": "Fragrant Dragon",
+      "description": "Can be ridden.\n\nEnhances \nGrass\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Botanical Smash"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Wheat Seeds"],
+    "food": "6",
+    "type_1": "Grass",
+    "type_2": "Dragon"
+  },
+  {
+    "name": "Dinossom Lux",
+    "lore": "Though struck by lightning, it lives on. the phrase \"struck by a Dinossom Lux's bolt\" has come to mean narrowly escaping death.",
+    "title": "Guardian of Lightning",
+    "number": "#064B",
+    "partnerSkill": {
+      "name": "Thunder Dragon",
+      "description": "Enhances \nElectric\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 7",
+        "name": "Plasma Tornado"
+      },
+      {
+        "level": "Level 15",
+        "name": "Botanical Smash"
+      },
+      {
+        "level": "Level 22",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Tomato Seeds"],
+    "food": "6",
+    "type_1": "Electric",
+    "type_2": "Dragon"
+  },
+  {
+    "name": "Surfent",
+    "lore": "Its hydrodynamic form is well suited to life in water. Poachers often catch them and use them in place of surfboards.",
+    "title": "The Ocean's Wrath",
+    "number": "#065",
+    "partnerSkill": {
+      "name": "Swiss Swimmer",
+      "description": "Can be ridden to travel on water.\n\nWhile mounted, prevents stamina depletion while moving over water."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "5",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Surfent Terra",
+    "lore": "Its aerodynamic form is well suited to life on the sand. Poachers often catch them and use them in place of surfboards.",
+    "title": "The Desert's Wrath",
+    "number": "#065B",
+    "partnerSkill": {
+      "name": "Sand Swimmer",
+      "description": "Can be ridden."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "5",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Maraith",
+    "lore": "It relishes the peculiar scent living things give off when they are near death. If a has taken a liking to you, it is safe to assume that is why.",
+    "title": "Messenger of Death",
+    "number": "#066",
+    "partnerSkill": {
+      "name": "Messeger of Death",
+      "description": "Can be ridden.\n\nApplies \nDark\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Bone", "Small Pal Soul"],
+    "food": "3",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Digtoise",
+    "lore": "a walking contradiction, possessing the strongest shell and the only drill capable of piercing it \"Digtoise's Fable\" is a popular children's tale.",
+    "title": "Drilling Machine",
+    "number": "#067",
+    "partnerSkill": {
+      "name": "Drill Crusher",
+      "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shell Spin"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Mining",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Ore", "High Quality Pal Oil"],
+    "food": "5",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Tombat",
+    "lore": "Often appears out of the blue to flaunt its prized wings in front of other Pals. Although this appears to be an intimidation tactic, the Pal seems to derive some kind of pleasure from the display.",
+    "title": "Trickster",
+    "number": "#068",
+    "partnerSkill": {
+      "name": "Ultrasonic Sensor",
+      "description": "When activated, uses ultrasonic waves to detect the location of nearby Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 22",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather", "Small Pal Soul"],
+    "food": "5",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Lovander",
+    "lore": "Seeking a night of love, it is always chasing someone around. At first it only showed interest in other Pals, but in recent years even humans have become the target of its debauchery.",
+    "title": "Pal on the Prowl",
+    "number": "#069",
+    "partnerSkill": {
+      "name": "Heart Drain",
+      "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Implode"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Mushroom", "Cake", "Suspicious Juice", "Strange Juice"],
+    "food": "5",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Flambelle",
+    "lore": "When it starts crying, this Pal produces magma in place of tears. The magma that pours out is absorbed back into its body, causing it to get hotter and hotter. The more it cries, the stronger it becomes.",
+    "title": "Molten Daughter",
+    "number": "#070",
+    "partnerSkill": {
+      "name": "Magma Tears",
+      "description": "Sometimes produces Flame Organ when assigned to Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "High Quality Pal Oil"],
+    "food": "2",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Vanwyrm",
+    "lore": "The melodies of a flute made from the exoskeleton of a Vanwyrm are said to cross whole mountain ranges. In ages past, such flutes were used to signal an attack.",
+    "title": "Aerial Marauder",
+    "number": "#071",
+    "partnerSkill": {
+      "name": "Aerial Marauder",
+      "description": "Can be ridden as a flying mount.\n\nIncreases damage player deals to enemy weak points while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Bone", "Ruby", "Gold Coin"],
+    "food": "6",
+    "type_1": "Fire",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Vanwyrm Cryst",
+    "lore": "The melodies of a flute made from an exoskeleton of a Vanwyrm Cryst are said to cross whole mountains ranges. In ages past, such flutes where used to signal victory in battle.",
+    "title": "Marauder of Frozen Skies",
+    "number": "#071B",
+    "partnerSkill": {
+      "name": "Aerial Marauder",
+      "description": "Can be ridden as a flying mount.\n\nIncreases daage player deals to enemy weak points while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Bone", "Ice Organ", "Sapphire"],
+    "food": "6",
+    "type_1": "Ice",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Bushi",
+    "lore": "Its body becomes a blade upon death, to be taken up by the next generation. if someone other then a Bushi wields this blade, the soul within torments them until they are driven mad.",
+    "title": "Vagrant Warrior",
+    "number": "#072",
+    "partnerSkill": {
+      "name": "Brandish Blade",
+      "description": "When activated, attacks targeted enemy with a powerful Iaigiri."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Iaigiri"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Ignis Rage"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Bone", "Ingot"],
+    "food": "4",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Beakon",
+    "lore": "Some think its a related species to Ragnahawk, but there is in fact no connection. Using its sharp beak, it descends on its prey in a quick motion that resembles a bolt of lightning.",
+    "title": "Wings of Thunder",
+    "number": "#073",
+    "partnerSkill": {
+      "name": "Thunderous",
+      "description": "Can be ridden as a flying mount.\n\nApplies \nElectric\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 22",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "7",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Ragnahawk",
+    "lore": "Some think it is a related species to Beakon, but there is in fact no connection. It mainly eats rocks, and after many long years its beak and head have hardened to accommodate this diet.",
+    "title": "Wings of Inferno",
+    "number": "#074",
+    "partnerSkill": {
+      "name": "Flame Wing",
+      "description": "Can be ridden as a flying mount.\n\nApplies \nFire\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "7",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Katress",
+    "lore": "With the power of shadows, it produces arcane phenomena. It prefers to eat food raw and is particularly hostile towards Wixen.",
+    "title": "Phantasmal Feline",
+    "number": "#075",
+    "partnerSkill": {
+      "name": "Grimoire Collector",
+      "description": "While fighting together, \nNeutral\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather", "Katress Hair", "High Grade Technical Manual"],
+    "food": "5",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Wixen",
+    "lore": "With the power of light, it produces arcane phenomena. it prefers to eat food well-done and is particularly hostile towards Katress.",
+    "title": "Fire Licked Furball",
+    "number": "#076",
+    "partnerSkill": {
+      "name": "Lord Fox",
+      "description": "When fighting together, applies \nFire\n damage to the player's attacks."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Flare Strom"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Flame Organ", "High Grade Technical Manual"],
+    "food": "5",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Verdash",
+    "lore": "Land that Verdash has run across becomes extremally fertile, with thick vegetation growing there soon after. It will not run anywhere that herbicide has been used.",
+    "title": "Gale of the Forest",
+    "number": "#077",
+    "partnerSkill": {
+      "name": "Grassland Speedster",
+      "description": "When fighting together, increases player's movement speed and applies \nGrass\n daage to the player's attacks."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather", "Bone"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Vaelet",
+    "lore": "The castle was filled with the king's favorite flowers. A great battle ensued, and flames approached the castle. Amidst the chaos, the spirit of a flower appeared. - From the fairy tale, \"The King's Flower.\"",
+    "title": "Voice of the Violets",
+    "number": "#078",
+    "partnerSkill": {
+      "name": "Purification of Gaia",
+      "description": "While fighting together, \nGround\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Poison Fog"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Low Grade Medical Supplies", "Tomato Seeds"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Sibelyx",
+    "lore": "A Pal that likes the rain, and will often bask in rain showers until the weather clears up. On rainy days, Foxparks can often be found taking shelter beneath it.",
+    "title": "Pallid Lady",
+    "number": "#79",
+    "partnerSkill": {
+      "name": "Silk Maker",
+      "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike.\n\nSometimes produces High Quality Cloth when assigned to Ranch."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Farming",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["High Quality Cloth", "Ice Organ"],
+    "food": "5",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Elphidran",
+    "lore": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it is sometimes unable to discern good from evil, often allowing wrongdoers to take advantage of it.",
+    "title": "Gentle Sky Dragon",
+    "number": "#80",
+    "partnerSkill": {
+      "name": "Amicable Holy Dragon",
+      "description": "Can be ridden as an aerial mount.\n\nWhile fighting together, \nDark\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Mystic Whirlwind"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Pal Blast"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil"],
+    "food": "6",
+    "type_1": "Dragon",
+    "type_2": null
+  },
+  {
+    "name": "Elphidran Aqua",
+    "lore": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it harbors no ill will in any of its actions and is indifferent even after killing someone.",
+    "title": "Beast of the Tides",
+    "number": "#080B",
+    "partnerSkill": {
+      "name": "Amicable Water Dragon",
+      "description": "Can be ridden as an flying mount. While fighting together, \nFire\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Mystic Whirlwind"
+      },
+      {
+        "level": "Level 30",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 40",
+        "name": "Hydro Laser"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil"],
+    "food": "???",
+    "type_1": "Dragon",
+    "type_2": "Water"
+  },
+  {
+    "name": "Kelpsea",
+    "lore": "Its personality changes depending on the quality of the water it was born into. Kelpsea born into polluted waters are generally ill-tempered and quickly become delinquents.",
+    "title": "Child of the Deep",
+    "number": "#081",
+    "partnerSkill": {
+      "name": "Aqua Spout",
+      "description": "While in team, increases attack power of \nWater\n Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Raw Kelpsea", "Pal Fluids"],
+    "food": "1",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Kelpsea Ignis",
+    "lore": "Their personalities change depending on the temperature of the water where they were born. Kelpsea Ignis born in warm waters generally have a passionate, motivated personality.",
+    "title": "Child of Molten Depths",
+    "number": "#081B",
+    "partnerSkill": {
+      "name": "Lava Spout",
+      "description": "While in team, increases attack power of \nFire\n Pals."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Raw Kelpsea", "Flame Organ"],
+    "food": "1",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Azurobe",
+    "lore": "This Pal's white ribbon turns black if doused with impure water. Given its usefulness in detecting poison, this Pal was once overhunted. This past has left them bitter towards humanity.",
+    "title": "Lady of the Lake",
+    "number": "#082",
+    "partnerSkill": {
+      "name": "Waterwing Dance",
+      "description": "Can be ridden to travel on water.\n\nApplies \nWater\n damage to the player attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Hydro Laser"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Cloth"],
+    "food": "6",
+    "type_1": "Water",
+    "type_2": "Dragon"
+  },
+  {
+    "name": "Cryolinx",
+    "lore": "It can easily climb steep mountains with its hard claws. However its short legs make it difficult to descend, often leaving it stranded in high places.",
+    "title": "Predator of Snowy Peaks",
+    "number": "#083",
+    "partnerSkill": {
+      "name": "Dragon Hunter",
+      "description": "While fighting together, \nDragon\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 22",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 30",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Ice Organ"],
+    "food": "7",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Blazehowl",
+    "lore": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapons- it simply doesn't realize its prey gets burred to a crisp.",
+    "title": "Crimson Goliath",
+    "number": "#084",
+    "partnerSkill": {
+      "name": "Hellflame Lion",
+      "description": "Can be ridden.\n\nWhile fighting together, \nGrass\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "7",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Blazehowl Noct",
+    "lore": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon—it simply doesn't realize its prey gets cursed.",
+    "title": "Inferno Goliath",
+    "number": "#084B",
+    "partnerSkill": {
+      "name": "Darkflame Lion",
+      "description": "Can be ridden.\n\nWhile fighting together, \nNeutral\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 7",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 15",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "7",
+    "type_1": "Fire",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Relaxaurus",
+    "lore": "Contrary to its blasé appearance, it's quite ferocious. It perceives everything in its sight as prey and will stop at nothing to devour it.",
+    "title": "Gluttonous Dragon",
+    "number": "#085",
+    "partnerSkill": {
+      "name": "Hungry Missile",
+      "description": "Can be ridden.\n\nCan rapidly fire a missile launcher while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil", "Ruby"],
+    "food": "7",
+    "type_1": "Dragon",
+    "type_2": "Water"
+  },
+  {
+    "name": "Relaxaurus Lux",
+    "lore": "One day, Relaxaurus had an idea. Maybe it was about time for a change. Just then, an electric shock raced through its body!",
+    "title": "Gluttonous Thunder Dragon",
+    "number": "#085B",
+    "partnerSkill": {
+      "name": "Missile Party",
+      "description": "Can be ridden.\n\nCan rapidly fire a missile launcher while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 22",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil", "Electric Organ", "Sapphire"],
+    "food": "7",
+    "type_1": "Dragon",
+    "type_2": "Electric"
+  },
+  {
+    "name": "Broncherry",
+    "lore": "Its scent drastically changes before and after pairing. It exudes a pleasing aroma after finding a partner, which is called the \"scent of first love.\"",
+    "title": "Winds of Spring",
+    "number": "#086",
+    "partnerSkill": {
+      "name": "Overaffectionate",
+      "description": "Can be ridden.\n\nWhile in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Muscle Slam"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Broncherry Meat", "Tomato Seeds"],
+    "food": "7",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Broncherry Aqua",
+    "lore": "Its scent drastically changes before and after pairing. It exudes a pleasing aroma before finding a partner, which is called the \"perfume of purity\"",
+    "title": "Waves of Summer",
+    "number": "#086B",
+    "partnerSkill": {
+      "name": "Overaffectionate",
+      "description": "Can be ridden.\n\nWhile in team, Broncherry Aqua helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Muscle Slam"
+      },
+      {
+        "level": "Level 22",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Broncherry Meat", "Lettuce Seeds"],
+    "food": "7",
+    "type_1": "Grass",
+    "type_2": "Water"
+  },
+  {
+    "name": "Petallia",
+    "lore": "A Pal that transforms into a massive plant when at the end of its life. Once every ten years, a beautiful flower blooms and a new Petallia is born.",
+    "title": "Lady of the Garden",
+    "number": "#087",
+    "partnerSkill": {
+      "name": "Blessing of the Flower Spirit",
+      "description": "When activated, uses medicinal flowers to restore the player's HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Bubble Blast"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Beautiful Flower"],
+    "food": "3",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Reptyro",
+    "lore": "Magma-like blood runs throughout its body. If a large amount of water is thrown on it, this water rapidly heats, causing an immense vapor explosion.",
+    "title": "Magma-born Juggernaut",
+    "number": "#088",
+    "partnerSkill": {
+      "name": "Ore-loving Beast",
+      "description": "Can be ridden.\n\nImproves efficiency of mining ores while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Volcanic Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "5",
+    "type_1": "Fire",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Reptyro Cryst",
+    "lore": "Ice cold blood runs throughout its body. If heated rapidly, its blood evaporates, causing an immense vapor explosion.",
+    "title": "Ice-breaking Juggernaut",
+    "number": "#088B",
+    "partnerSkill": {
+      "name": "Ice-loving Beast",
+      "description": "Can be ridden.\n\nImproves efficiency of mining ores while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Frost Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Mining",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Ice Organ"],
+    "food": "5",
+    "type_1": "Ice",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Kingpaca",
+    "lore": "Melpaca serve this pal. Contests between Kingpaca offer up their vassals as a wager. Those seen alone are losers of such contests.",
+    "title": "Supreme Fluff Commander",
+    "number": "#089",
+    "partnerSkill": {
+      "name": "King of Muscles",
+      "description": "Can be ridden.\n\nWhile in a team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 22",
+        "name": "Kingly Slam"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": ["Wool"],
+    "food": "7",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Kingpaca Cryst",
+    "lore": "With a heart of ice, this Pal is terrible at expressing its emotions. A solitary individual is pitiable, seen as too clumsy in the eyes of a Melpaca.",
+    "title": "Azure Fluff Commander",
+    "number": "#089B",
+    "partnerSkill": {
+      "name": "King of Muscles",
+      "description": "Can be ridden.\n\nWhile in team, Kingpaca Cryst helps carry suplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 22",
+        "name": "Kingly Slam"
+      },
+      {
+        "level": "Level 30",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Wool", "Ice Organ"],
+    "food": "7",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Mammorest",
+    "lore": "The vegetation on its back varies between individuals. There is a long history of appreciating this veritable garden of a Pal, and there are even Mammorest pruning specialists.",
+    "title": "King of the Forest",
+    "number": "#090",
+    "partnerSkill": {
+      "name": "Gaia Crusher",
+      "description": "Can be ridden.\n\nImproves efficiency of \ncutting\n trees and \nmining\n ores while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 22",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Earth Impact"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil", "Leather", "Mammorest Meat"],
+    "food": "8",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Mammorest Cryst",
+    "lore": "The vegetation on its back varies from individual to individual. there was a time when seeds of presumed extinct plants where found still frozen on the back pk mammorest Cryst.",
+    "title": "Frozen King",
+    "number": "#090B",
+    "partnerSkill": {
+      "name": "Ice Crusher",
+      "description": "Can be ridden.\n\nImproves efficiency of \ncutting\n trees and \nmining\n ores while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 22",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 30",
+        "name": "Earth Impact"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil", "Leather", "Mammorest Meat"],
+    "food": "8",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Wumpo",
+    "lore": "Researchers once tried to shave off its hair to reveal its true form. In the end, only hair was left, as if that was all there was to begin with.",
+    "title": "Guardian of the Snowy Mountain",
+    "number": "#091",
+    "partnerSkill": {
+      "name": "Guardian of the Snowy Mountain",
+      "description": "Can be ridden.\n\nWhile in team, Wumpo helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 7",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 30",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Cooling",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Ice Organ", "Beautiful Flower"],
+    "food": "8",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Wumpo Botan",
+    "lore": "Researchers once tried to cut the grass off its body to reveal its true form. In the end, only grass was left, as if that was all there was to begin with.",
+    "title": "Guardian of the Grassy Fields",
+    "number": "#091B",
+    "partnerSkill": {
+      "name": "Guardian of the Grassy Fields",
+      "description": "Can be ridden.\n\nWhile in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 22",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Lettuce Seeds", "Tomato Seeds", "Beautiful Flower"],
+    "food": "8",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Warsect",
+    "lore": "The ultra-hard armor surrounding its body is extremely strong and heat resistant.",
+    "title": "Unyielding Colossus",
+    "number": "#092",
+    "partnerSkill": {
+      "name": "Hard Armor",
+      "description": "When fighting together, increases player's defense and applies \nFire\n damage to the player's attacks."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Giga Horn"
+      },
+      {
+        "level": "Level 40",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Honey"],
+    "food": "6",
+    "type_1": "Grass",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Fenglope",
+    "lore": "in ages past, its beautiful visage was a common sight in paintings. as time passed, its beautiful pelts and antlers where often seen in works of art.",
+    "title": "Drifting Cloud",
+    "number": "#093",
+    "partnerSkill": {
+      "name": "Wind and Clouds",
+      "description": "Can be ridden.\n\nCan double jump while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Cloud Tempest"
+      },
+      {
+        "level": "Level 22",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 30",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Leather", "Horn"],
+    "food": "6",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Felbat",
+    "lore": "Attacking from the shadows, this pal traps its prey within its cloak-like wigs. it's probably best not to know what happens within them, or why the inside of its wings are stained red.",
+    "number": "#094",
+    "partnerSkill": {
+      "name": "Life Steal",
+      "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Medicine Production",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Cloth", "Small Pal Soul"],
+    "food": "5",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Quivern",
+    "lore": "Sleeping while cuddling a Quivern is said to be a heavenly experience, but there are some who have been crushed and sent to heaven by ones that toss and turn in their sleep.",
+    "title": "Wings of White",
+    "number": "#095",
+    "partnerSkill": {
+      "name": "Sky Dragon's Affection",
+      "description": "Can be ridden as a flying mount.\n\nEnhances \nDragon\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Acid Rain"
+      },
+      {
+        "level": "Level 22",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil"],
+    "food": "4",
+    "type_1": "Dragon",
+    "type_2": null
+  },
+  {
+    "name": "Blazamut",
+    "lore": "Legends says it was born during a volcanic eruption. A strange group even claims that this continent laids upon the back of a giant Blazamut.",
+    "title": "Cursed Tyrant",
+    "number": "#096",
+    "partnerSkill": {
+      "name": "Magma Kaiser",
+      "description": "Can be ridden.\n\nEnhances \nFire\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Coal", "Flame Organ"],
+    "food": "9",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Helzephyr",
+    "lore": "It calls forth lightning from the depths of hell. One who dies from Helzephyr's inferno is sure to be sent to the underworld.",
+    "title": "Wings of Death",
+    "number": "#097",
+    "partnerSkill": {
+      "name": "Wings of Death",
+      "description": "Can be ridden as a flying mount.\n\nApplies \nDark\n damage to the player's attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 30",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Venom Gland", "Medium Pal Soul"],
+    "food": "8",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Astegon",
+    "lore": "A savage beast born of the abyss. Thou shall not stand before the beast. Thou shall not heed the beast.",
+    "title": "Ravager of Stars",
+    "number": "#098",
+    "partnerSkill": {
+      "name": "Black Ankylosaur",
+      "description": "Can be ridden as a flying mount.\n\nIncreases damage dealt to ore while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 15",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 30",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Dark Laser"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 1"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Pal Metal Ingot", "Pure Quartz"],
+    "food": "9",
+    "type_1": "Dragon",
+    "type_2": "Dark"
+  },
+  {
+    "name": "Menasting",
+    "lore": "Being made of pure energy, its insides are completely hollow. This Pal crams still-living prey into its hollow body, where it absorbs them. Hellish screams of pain can often be heard coming from inside this Pal.",
+    "title": "Unstoppable Stinger",
+    "number": "#099",
+    "partnerSkill": {
+      "name": "Steel Scorpion",
+      "description": "When fighting together, increases the player's defense and \nElectric\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Sand Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Poison Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Stone Cannon"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Coal", "Venom Gland"],
+    "food": "7",
+    "type_1": "Dark",
+    "type_2": "Ground"
+  },
+  {
+    "name": "Anubis",
+    "lore": "Once seen as a symbol of nobility, and an idol for those who shunned wealth and power. yet over time, this pal became a token of death.",
+    "title": "Guardian of the Dark Sun",
+    "number": "#100",
+    "partnerSkill": {
+      "name": "Guardian of the Desert",
+      "description": "While fighting together, applies \nGround\n damage to the player's attacks.\n\nSometimes dodges attacks with a high speed sidestep while in battle."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Stone Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 15",
+        "name": "Sand Tornado"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spinning Roundhouse"
+      },
+      {
+        "level": "Level 30",
+        "name": "Forceful Charge"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ground Smash"
+      },
+      {
+        "level": "Level 50",
+        "name": "Rock Lance"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 4"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Bone", "Large Pal Soul", "Innovative Technical Manual"],
+    "food": "6",
+    "type_1": "Ground",
+    "type_2": null
+  },
+  {
+    "name": "Jormuntide",
+    "lore": "Legend says that the Jormuntide was once a wise man, who after being wrongly convicted and cast into a whirlpool, returned as this pal to destroy those who wronged him.",
+    "title": "Emperor of the Sea",
+    "number": "#101",
+    "partnerSkill": {
+      "name": "Stormbringer Sea Dragon",
+      "description": "Can be ridden to travel on water.\n\nWhile mounted, prevents stamina depletion while moving over water."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 22",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Hydro Laser"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "7",
+    "type_1": "Dragon",
+    "type_2": "Water"
+  },
+  {
+    "name": "Jormuntide Ignis",
+    "lore": "Legend says the Jormuntide Ignis was once a warrior who, after being wrongly convicted and cast into a volcano, returned as this Pal to destroy those who wronged him.",
+    "title": "Volcanic Emperor",
+    "number": "#101B",
+    "partnerSkill": {
+      "name": "Stormbringer Lava Dragon",
+      "description": "Can be ridden.\n\nEnhances \nFire\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Cannon"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["High Quality Pal Oil", "Flame Organ"],
+    "food": "7",
+    "type_1": "Dragon",
+    "type_2": "Fire"
+  },
+  {
+    "name": "Suzaku",
+    "lore": "It was once believed to usher in the dry season. Whenever there was a drought the previous year, people would relentlessly seek to cull its numbers, hoping to bring about a plentiful harvest in the next year.",
+    "title": "Ruler of the Crimson Dawn",
+    "number": "#102",
+    "partnerSkill": {
+      "name": "Wings of Flame",
+      "description": "Can be ridden as a flying mount.\n\nEnhances \nFire\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 30",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 40",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "8",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Suzaku Aqua",
+    "lore": "It was once believed to usher in the rainy season. If there was a flood the previous year, people would relentlessly seek to cull its numbers, hoping to avert disaster in the coming year.",
+    "title": "Ruler of the Cobalt Dusk",
+    "number": "#102B",
+    "partnerSkill": {
+      "name": "Wings of Water",
+      "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Hydro Jet"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Aqua Gun"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Hydro Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Watering",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Pal Fluids"],
+    "food": "8",
+    "type_1": "Water",
+    "type_2": null
+  },
+  {
+    "name": "Grizzbolt",
+    "lore": "With a friendly smile and a hardy physique, it is docile towards ones it recognizes as a partner. for reasons unexplained, its personality undergoes a drastic change when welding a minigun.",
+    "title": "Claws of Lightning",
+    "number": "#103",
+    "partnerSkill": {
+      "name": "Yellow Tank",
+      "description": "Can be ridden.\n\nCan rapidly fire a minigun while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Shockwave"
+      },
+      {
+        "level": "Level 15",
+        "name": "Lightning Claw"
+      },
+      {
+        "level": "Level 22",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 30",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 40",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Electric Organ", "Leather"],
+    "food": "7",
+    "type_1": "Electric",
+    "type_2": null
+  },
+  {
+    "name": "Lyleen",
+    "lore": "A docile Pal full of love. It watches over small Pals who have lost their parents. It uses a full-power Solar Blast to discipline naughty Pals.",
+    "title": "Queen of Lilies",
+    "number": "#104",
+    "partnerSkill": {
+      "name": "Harvest Goddess",
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Wind Cutter"
+      },
+      {
+        "level": "Level 7",
+        "name": "Seed Machine Gun"
+      },
+      {
+        "level": "Level 15",
+        "name": "Seed Mine"
+      },
+      {
+        "level": "Level 22",
+        "name": "Aqua Burst"
+      },
+      {
+        "level": "Level 30",
+        "name": "Grass Tornado"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spine Vine"
+      },
+      {
+        "level": "Level 50",
+        "name": "Solar Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Planting",
+        "level": "Lv 4"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": [
+      "File:Low Grade Medicine icon.png\nLow Grade Medicine",
+      "Beautiful Flower",
+      "Innovative Technical Manual"
+    ],
+    "food": "6",
+    "type_1": "Grass",
+    "type_2": null
+  },
+  {
+    "name": "Lyleen Noct",
+    "lore": "An elegant Pal full of grace. It admonishes any who are disrespectful with a painful slap. Some Pals actively seek out this punishment.",
+    "title": "Empress of the Abyss",
+    "number": "#104B",
+    "partnerSkill": {
+      "name": "Goddess of the Tranquil Light",
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 7",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Handiwork",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Gathering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Medicine Production",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": [
+      "File:Low Grade Medicine icon.png\nLow Grade Medicine",
+      "Beautiful Flower",
+      "Innovative Technical Manual"
+    ],
+    "food": "6",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Faleris",
+    "lore": "It razes entire areas with whirlwind flames when it has spotted a herd of its prey. Faleris breath is known for its pleasing scent.",
+    "title": "Sentinel of Dawn",
+    "number": "#105",
+    "partnerSkill": {
+      "name": "Scorching Predator",
+      "description": "Can be ridden as an aerial mount. While fighting together, \nIce\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Ignis Blast"
+      },
+      {
+        "level": "Level 7",
+        "name": "Flare Arrow"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 22",
+        "name": "Ignis Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Phoenix Flare"
+      },
+      {
+        "level": "Level 40",
+        "name": "Ignis Rage"
+      },
+      {
+        "level": "Level 50",
+        "name": "Fire Ball"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Kindling",
+        "level": "Lv 3"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Flame Organ"],
+    "food": "???",
+    "type_1": "Fire",
+    "type_2": null
+  },
+  {
+    "name": "Orserk",
+    "lore": "It sends electricity into its foes' wounds, roasting them from the inside out. Fights between Orserk end in the blink of an eye.",
+    "title": "Roaring Thunder",
+    "number": "#106",
+    "partnerSkill": {
+      "name": "Ferocious Thunder Dragon",
+      "description": "While fighting together, \nWater\n Pals drop more items when defeated."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Kerauno"
+      },
+      {
+        "level": "Level 7",
+        "name": "Lightning Strike"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spark Blast"
+      },
+      {
+        "level": "Level 22",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Lightning Streak"
+      },
+      {
+        "level": "Level 40",
+        "name": "Tri-Lightning"
+      },
+      {
+        "level": "Level 50",
+        "name": "Lightning Bolt"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Generating Electricity",
+        "level": "Lv 4"
+      },
+      {
+        "name": "Handiwork",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Transporting",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Electric Organ"],
+    "food": "???",
+    "type_1": "Dragon",
+    "type_2": null
+  },
+  {
+    "name": "Shadowbeak",
+    "lore": "Born from the depths of insanity, its very existence should not be. Having lost all genetic ties to other Pals, one wonders if it could still even be considered a Pal.",
+    "title": "Unknown Life Form",
+    "number": "#107",
+    "partnerSkill": {
+      "name": "Modified DNA",
+      "description": "Can be ridden as a flying mount.\n\nEnhances \nDark\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 40",
+        "name": "Divine Disaster"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 1"
+      }
+    ],
+    "possibleDrops": [
+      "Pal Metal Ingot",
+      "Carbon Fiber",
+      "Innovative Technical Manual"
+    ],
+    "food": "8",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Paladius",
+    "lore": "Once one with Necromus. It's gleaming form is free from all negative emotions. However, a glimmer of hatred can still be seen deep within its eyes.",
+    "title": "Holy Knight of Legend",
+    "number": "#108",
+    "partnerSkill": {
+      "name": "Holy Knight of the Firmament",
+      "description": "Can triple jump when mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Power Shot"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 22",
+        "name": "Power Bomb"
+      },
+      {
+        "level": "Level 30",
+        "name": "Blizzard Spike"
+      },
+      {
+        "level": "Level 40",
+        "name": "Spear Thrust"
+      },
+      {
+        "level": "Level 50",
+        "name": "Pal Blast"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": ["Pal Metal Ingot", "Diamond"],
+    "food": "9",
+    "type_1": "Neutral",
+    "type_2": null
+  },
+  {
+    "name": "Necromus",
+    "lore": "Once one with Paladius. Its darkened form is the embodiment of negative emotions. However, a glimmer of compassion can still be seen deep within its eyes.",
+    "title": "Dark Knight of Legend",
+    "number": "#109",
+    "partnerSkill": {
+      "name": "Dark Knight of the Abyss",
+      "description": "Can be ridden. Can double jump while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 7",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 15",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 22",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 30",
+        "name": "Rock Lance"
+      },
+      {
+        "level": "Level 40",
+        "name": "Twin Spears"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Lumbering",
+        "level": "Lv 2"
+      },
+      {
+        "name": "Mining",
+        "level": "Lv 2"
+      }
+    ],
+    "possibleDrops": [
+      "Pal Metal Ingot",
+      "Large Pal Soul",
+      "Ancient Civilization Parts",
+      "Precious Entrails",
+      "File:Heat Resistant Pal Metal Armor Schematic 4 icon.png\nHeat Resistant Pal Metal Armor Schematic 4"
+    ],
+    "food": "9",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Frostallion",
+    "lore": "Guardian deity of palpagos island, known as the winter caller. in the past when calamity struck the land, it soared into the sky and sealed away the threat casting the island into an eternal winter.",
+    "title": "Legendary Steed of Ice",
+    "number": "#110",
+    "partnerSkill": {
+      "name": "Ice Steed",
+      "description": "Can be ridden as a flying mount.\n\nChanges the player's attack type to \nIce\n and enhances \nIce\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Ice Missile"
+      },
+      {
+        "level": "Level 15",
+        "name": "Icicle Cutter"
+      },
+      {
+        "level": "Level 22",
+        "name": "Iceberg"
+      },
+      {
+        "level": "Level 30",
+        "name": "Crystal Wing"
+      },
+      {
+        "level": "Level 40",
+        "name": "Cryst Breath"
+      },
+      {
+        "level": "Level 50",
+        "name": "Blizzard Spike"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Cooling",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Ice Organ", "Diamond"],
+    "food": "7",
+    "type_1": "Ice",
+    "type_2": null
+  },
+  {
+    "name": "Frostallion Noct",
+    "lore": "Guardian deity of Palpagos Island known as the Night Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into eternal darkness.",
+    "title": "Legendary Steed of Darkness",
+    "number": "#110B",
+    "partnerSkill": {
+      "name": "Black Steed",
+      "description": "Can be ridden as an flying mount. Changes the player's attack type to \nDark\n and enhances \nDark\n attacks while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Air Cannon"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dark Ball"
+      },
+      {
+        "level": "Level 15",
+        "name": "Shadow Burst"
+      },
+      {
+        "level": "Level 22",
+        "name": "Spirit Flame"
+      },
+      {
+        "level": "Level 30",
+        "name": "Crystal Wing"
+      },
+      {
+        "level": "Level 40",
+        "name": "Nightmare Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dark Laser"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 4"
+      }
+    ],
+    "possibleDrops": ["Pure Quartz"],
+    "food": "7",
+    "type_1": "Dark",
+    "type_2": null
+  },
+  {
+    "name": "Jetragon",
+    "lore": "Watches over palpagos island from high above. when calamity returns to the land, the earth will split open, and the skies will burn. it is destined to strike down the calamity in a flash of total destruction.",
+    "title": "Legendary Celestial Dragon",
+    "number": "#111",
+    "partnerSkill": {
+      "name": "Aerial Missile",
+      "description": "Can be ridden as a flying mount.\n\nCan rapidly fire a missile launcher while mounted."
+    },
+    "activeSkills": [
+      {
+        "level": "Level 1",
+        "name": "Spirit Fire"
+      },
+      {
+        "level": "Level 7",
+        "name": "Dragon Burst"
+      },
+      {
+        "level": "Level 15",
+        "name": "Flare Storm"
+      },
+      {
+        "level": "Level 22",
+        "name": "Draconic Breath"
+      },
+      {
+        "level": "Level 30",
+        "name": "Beam Comet"
+      },
+      {
+        "level": "Level 40",
+        "name": "Fire Ball"
+      },
+      {
+        "level": "Level 50",
+        "name": "Dragon Meteor"
+      }
+    ],
+    "workSustainability": [
+      {
+        "name": "Gathering",
+        "level": "Lv 3"
+      }
+    ],
+    "possibleDrops": ["Pure Quartz", "Polymer", "Carbon Fiber", "Diamond"],
+    "food": "9",
+    "type_1": "Dragon",
+    "type_2": null
+  }
+]

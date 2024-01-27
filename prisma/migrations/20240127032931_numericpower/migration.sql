@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "palworld"."Skill" ALTER COLUMN "ct" SET DATA TYPE TEXT,
+ALTER COLUMN "power" SET DATA TYPE TEXT;

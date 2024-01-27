@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Acid Rain",
+    "type": "Water",
+    "ct": "18",
+    "power": "80",
+    "description": "Creates acidic clouds that pour down acid rain on enemies."
+  },
+
+  {
+    "name": "Air Cannon",
+    "type": "Neutral",
+    "ct": "2",
+    "power": "25",
+    "description": "Quickly fires a burst of highly pressurized air."
+  },
+  {
+    "name": "Antler Uppercut",
+    "type": "Neutral",
+    "ct": "5",
+    "power": "50",
+    "description": "Charges at foes and uses antlers to launch them into the air. If used while riding, the direction of the charge can be controlled."
+  },
+  {
+    "name": "Aqua Blast",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Aqua Gun",
+    "type": "Water",
+    "ct": "4",
+    "power": "40",
+    "description": "Hurls a ball of water straight at an enemy."
+  },
+  {
+    "name": "Blazing Horn",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Botanical Smash",
+    "type": "Grass",
+    "ct": "8",
+    "power": "60",
+    "description": "Uses large tail to smash the ground in front of it, damaging enemies over a wide area."
+  },
+  {
+    "name": "Chicken Rush",
+    "type": "Neutral",
+    "ct": "1",
+    "power": "30",
+    "description": "Flies at enemies in its sights, attacking them with its sharp beak."
+  },
+  {
+    "name": "Dark Ball",
+    "type": "Dark",
+    "ct": "4",
+    "power": "40",
+    "description": "Unleashes a sphere of darkness that slowly tracks down the enemy."
+  },
+  {
+    "name": "Dark Laser",
+    "type": "Dark",
+    "ct": "55",
+    "power": "150",
+    "description": "Charges dark energy before blasting enemies with a powerful beam."
+  },
+  {
+    "name": "Destruction Beam",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Dragon Cannon",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Dragon Meteor",
+    "type": "Dragon",
+    "ct": "55",
+    "power": "150",
+    "description": "Calls down numerous small meteorites and launches them at an enemy."
+  },
+  {
+    "name": "Emperor Slide",
+    "type": "Ice",
+    "ct": "10",
+    "power": "70",
+    "description": "Lies on its belly while generating frozen air all around it before sliding at enemies at high speed."
+  },
+  {
+    "name": "Fierce Fang",
+    "type": "Neutral",
+    "ct": "2",
+    "power": "45",
+    "description": "Swiftly leaps at an enemy and bites into them."
+  },
+  {
+    "name": "Fire Ball",
+    "type": "Fire",
+    "ct": "55",
+    "power": "150",
+    "description": "The ball explodes over a wide area upon impact."
+  },
+  {
+    "name": "Fire Blast",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Fire Breath",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Fluffy Tackle",
+    "type": "Neutral",
+    "ct": "4",
+    "power": "40",
+    "description": "Charges forward while clad in an aura of sublime adorableness."
+  },
+  {
+    "name": "Forceful Charge",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Hellfire Claw",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Hydro Jet",
+    "type": "Water",
+    "ct": "2",
+    "power": "30",
+    "description": "Hurls a high speed ball of water at an enemy."
+  },
+  {
+    "name": "Ice Missile",
+    "type": "Ice",
+    "ct": "3",
+    "power": "30",
+    "description": "Creates ice lances in the air that fly towards enemies."
+  },
+  {
+    "name": "Iceberg",
+    "type": "Ice",
+    "ct": "15",
+    "power": "70",
+    "description": "Summons a sharp ice lance under an enemy."
+  },
+  {
+    "name": "Ignis Blast",
+    "type": "Fire",
+    "ct": "2",
+    "power": "30",
+    "description": "Hurls a ball of fire straight at an enemy."
+  },
+  {
+    "name": "Ignis Breath",
+    "type": "Fire",
+    "ct": "15",
+    "power": "70",
+    "description": "Shoots flames at an enemy, dealing continuous damage."
+  },
+  {
+    "name": "Ignis Rage",
+    "type": "Fire",
+    "ct": "40",
+    "power": "120",
+    "description": "Energizes the surrounding ground, causing it to explode after a set amount of time."
+  },
+  {
+    "name": "Implode",
+    "type": "Neutral",
+    "ct": "55",
+    "power": "180",
+    "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards."
+  },
+  {
+    "name": "Kingly Slam",
+    "type": "Neutral",
+    "ct": "21",
+    "power": "100",
+    "description": "Leaps high into the air before smashing into an enemy with its massive body."
+  },
+  {
+    "name": "Lightning Rain",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Lightning Streak",
+    "type": "Electric",
+    "ct": "4",
+    "power": "40",
+    "description": "Quickly discharges electricity, shocking those around it."
+  },
+  {
+    "name": "Poison Blast",
+    "type": "Dark",
+    "ct": "2",
+    "power": "30",
+    "description": "Hurls poison sludge at an enemy."
+  },
+  {
+    "name": "Power Shot",
+    "type": "Neutral",
+    "ct": "4",
+    "power": "35",
+    "description": "Charges energy into a focused blast."
+  },
+  {
+    "name": "Punch Flurry",
+    "type": "Neutral",
+    "ct": "1",
+    "power": "40",
+    "description": "Pursues enemies, repeatedly punching them with both it's fists."
+  },
+  {
+    "name": "Reckless Charge",
+    "type": "Neutral",
+    "ct": "2",
+    "power": "55",
+    "description": "Takes aim at a foe and rushes at them with a mad charge."
+  },
+  {
+    "name": "Roly Poly",
+    "type": "Neutral",
+    "ct": "1",
+    "power": "35",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Sand Blast",
+    "type": "Ground",
+    "ct": "5",
+    "power": "25",
+    "description": "Hurls sticky mud at an enemy."
+  },
+  {
+    "name": "Shadow Burst",
+    "type": "Dark",
+    "ct": "10",
+    "power": "55",
+    "description": "Quickly discharges dark energy, damaging those around it."
+  },
+  {
+    "name": "Shockwave",
+    "ct": "???",
+    "power": "???",
+    "description": "Under investigation."
+  },
+  {
+    "name": "Spark Blast",
+    "type": "Electric",
+    "ct": "2",
+    "power": "30",
+    "description": "The user releases a lightning ball that expands outward in a forward, circular pattern."
+  },
+  {
+    "name": "Spirit Fire",
+    "type": "Fire",
+    "ct": "7",
+    "power": "45",
+    "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward."
+  },
+  {
+    "name": "Spirit Flame",
+    "type": "Dark",
+    "ct": "16",
+    "power": "75",
+    "description": "Fires three balls of malice that relentlessly pursue an enemy."
+  },
+  {
+    "name": "Stone Blast",
+    "type": "Ground",
+    "ct": "10",
+    "power": "55",
+    "description": "Fires a barrage of stones forward."
+  },
+  {
+    "name": "Tornado Attack",
+    "type": "Neutral",
+    "ct": "???",
+    "power": "65",
+    "description": "Nitewing's exclusive skill. Generates a tornado before soaring towards its target."
+  },
+  {
+    "name": "Wind Cutter",
+    "type": "Grass",
+    "ct": "2",
+    "power": "30",
+    "description": "Fires a high speed blade of wind that flies straight at an enemy."
+  }
+]

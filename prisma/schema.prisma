@@ -1,0 +1,119 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("POSTGRES_PRISMA_URL") // uses connection pooling
+  directUrl = env("POSTGRES_URL_NON_POOLING") // uses a direct connection
+  schemas   = ["palworld", "public"]
+}
+
+enum palTypesEnum {
+  Dark
+  Dragon
+  Electric
+  Fire
+  Grass
+  Ground
+  Ice
+  Neutral
+  Water
+
+  @@schema("palworld")
+}
+
+model workSustainability {
+  id                    Int                     @id @default(autoincrement())
+  name                  String
+  PalWorkSustainability PalWorkSustainability[]
+
+  @@schema("palworld")
+}
+
+model PalWorkSustainability {
+  id                   Int                @id @default(autoincrement())
+  palId                Int
+  pal                  Pal                @relation(fields: [palId], references: [id])
+  workSustainability   workSustainability @relation(fields: [workSustainabilityId], references: [id])
+  level                Int
+  workSustainabilityId Int
+
+  @@schema("palworld")
+}
+
+model Pal {
+  id     Int           @id @default(autoincrement())
+  number String        @unique @default("0001")
+  name   String
+  image  String
+  title  String
+  lore   String
+  food   Int
+  type_1 palTypesEnum
+  type_2 palTypesEnum?
+  //json with name and level as keys
+
+  partnerSkillId     Int
+  partnerSkill       PartnerSkill            @relation(fields: [partnerSkillId], references: [id])
+  droppedItems       DroppedItem[]
+  workSustainability PalWorkSustainability[]
+  skills             SkillPal[]
+
+  @@schema("palworld")
+}
+
+model PartnerSkill {
+  id          Int    @id @default(autoincrement())
+  name        String
+  description String
+  pals        Pal[]
+
+  @@schema("palworld")
+}
+
+model Skill {
+  id          Int           @id @default(autoincrement())
+  name        String
+  description String?
+  element     palTypesEnum?
+  ct          String
+  power       String
+  skillPal    SkillPal[]
+
+  @@schema("palworld")
+}
+
+model SkillPal {
+  id      Int   @id @default(autoincrement())
+  palId   Int
+  pal     Pal   @relation(fields: [palId], references: [id])
+  skillId Int
+  skill   Skill @relation(fields: [skillId], references: [id])
+  level   Int
+
+  @@schema("palworld")
+}
+
+model Item {
+  id          Int           @id @default(autoincrement())
+  name        String
+  description String
+  relatedPals DroppedItem[]
+
+  @@schema("palworld")
+}
+
+model DroppedItem {
+  id     Int  @id @default(autoincrement())
+  itemId Int
+  item   Item @relation(fields: [itemId], references: [id])
+  palId  Int
+  pal    Pal  @relation(fields: [palId], references: [id])
+
+  @@schema("palworld")
+}
