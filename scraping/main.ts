@@ -289,7 +289,7 @@ async function getImages(page: Page) {
     await downloadImage(image.image, `./public/images/pals/${image.name}.png`);
   }
 }
-async function downloadImage(src, path) {
+async function downloadImage(src: string, path: string) {
   const response = await fetch(src);
 
   if (!response.ok) {
