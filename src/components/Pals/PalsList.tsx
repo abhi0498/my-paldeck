@@ -3,6 +3,7 @@ import { Pal, palTypesEnum } from "@prisma/client";
 import Image from "next/image";
 import { useMemo, useState } from "react";
 import PalAvatar from "./PalAvatar";
+import Link from "next/link";
 
 const PalsList = ({ pals }: { pals: Pal[] }) => {
   const [search, setSearch] = useState("");
@@ -64,7 +65,8 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
 
 const PalCard = ({ pal }: { pal: Pal }) => {
   return (
-    <div
+    <Link
+      href={`/pal/${pal.id}`}
       className="w-full lg:w-1/4 xl:w-1/5 sm:w-1/4 xs:w-1/3
     flex flex-col gap-2 items-center justify-between border-2 border-gray-200 rounded-lg 
     m-4 p-4"
@@ -95,7 +97,7 @@ const PalCard = ({ pal }: { pal: Pal }) => {
           />
         )}
       </p>
-    </div>
+    </Link>
   );
 };
 

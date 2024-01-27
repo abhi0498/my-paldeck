@@ -16,3 +16,20 @@ export const getAllPals = async () => {
     orderBy: { number: "asc" },
   });
 };
+
+export const getPalById = async (id: number) => {
+  return prisma.pal.findUnique({
+    where: { id },
+    include: {
+      droppedItems: {
+        select: { item: true },
+      },
+      skills: {
+        select: { level: true, skill: true },
+      },
+      workSustainability: {
+        select: { workSustainability: true, level: true },
+      },
+    },
+  });
+};
