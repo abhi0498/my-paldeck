@@ -1,35 +1,53 @@
 "use client";
-import React, { useMemo } from "react";
-import { getAllPals } from "@/services/pals";
+import { Pal, palTypesEnum } from "@prisma/client";
 import Image from "next/image";
-import { useState } from "react";
-import { Pal } from "@prisma/client";
+import { useMemo, useState } from "react";
 import PalAvatar from "./PalAvatar";
 
 const PalsList = ({ pals }: { pals: Pal[] }) => {
   const [search, setSearch] = useState("");
+  const [type, setType] = useState("");
 
   const filteredPals = useMemo(() => {
-    if (!search) return pals;
-    return pals.filter((pal) =>
-      pal.name.toLowerCase().includes(search.toLowerCase())
-    );
-  }, [search, pals]);
+    if (!search && !type) return pals;
+    return pals
+      .filter((pal) => pal.name.toLowerCase().includes(search.toLowerCase()))
+      .filter((pal) => pal.type_1 === type || pal.type_2 === type);
+  }, [search, pals, type]);
 
   return (
     <>
       <div className="flex w-full gap-5">
         <input
           type="text"
-          placeholder="Search"
-          className="w-auto p-2 text-black"
+          placeholder="Search Pal"
+          className="input input-bordered w-full max-w-xs"
           onChange={(e) => setSearch(e.target.value)}
         />
-        <select className="p-2 text-black">
-          <option value="name">Name</option>
-          <option value="number">Number</option>
-          <option value="type">Type</option>
+        <select
+          className="select select-bordered w-full max-w-xs"
+          onChange={(e) => setType(e.target.value)}
+          value={type}
+        >
+          <option value={""} disabled>
+            Filter by Element
+          </option>
+          {Object.keys(palTypesEnum).map((type) => (
+            <option value={type} key={type}>
+              {type}
+            </option>
+          ))}
         </select>
+
+        <button
+          className="btn btn-primary w-32"
+          onClick={() => {
+            setSearch("");
+            setType("");
+          }}
+        >
+          Clear
+        </button>
       </div>
       <div className="flex flex-wrap min-h-screen flex-row items-center mx-auto p-4 gap-1">
         {filteredPals.map((pal) => (

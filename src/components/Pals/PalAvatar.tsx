@@ -16,8 +16,8 @@ const imageExists = async (path: string) => {
   }
 };
 
-const PalAvatar = async ({ pal }: { pal: Pal }) => {
-  const error = !(await imageExists(pal.name));
+const PalAvatar = ({ pal }: { pal: Pal }) => {
+  const [error, setError] = React.useState(false);
   if (error)
     return (
       <Image
