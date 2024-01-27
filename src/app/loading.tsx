@@ -8,8 +8,11 @@ export default function Loading() {
             placeholder="Search"
             className="input input-bordered w-full max-w-xs "
           />
-          <select className="select select-bordered w-full max-w-xs ">
-            <option value="" disabled selected>
+          <select
+            defaultValue=""
+            className="select select-bordered w-full max-w-xs "
+          >
+            <option value="" disabled>
               Filter by Element
             </option>
           </select>
