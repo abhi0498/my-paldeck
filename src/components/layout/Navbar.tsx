@@ -6,10 +6,12 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
       <div className="navbar-start">
-        <div className="drawer">
+        <div className="drawer w-10">
           <input id="my-drawer" type="checkbox" className="drawer-toggle" />
           <div className="drawer-content">
-            <FiMenu className="text-2xl" />
+            <label htmlFor="my-drawer" className="drawer-button">
+              <FiMenu className="text-2xl drawer-button" />
+            </label>
           </div>
           <div className="drawer-side">
             <label

@@ -35,6 +35,7 @@ const PalAvatar = ({ pal }: { pal: Pal }) => {
     );
   return (
     <Image
+      priority
       onError={() => setError(true)}
       onErrorCapture={() => setError(true)}
       src={`/images/pals/${pal.name}.png`}

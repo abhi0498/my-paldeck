@@ -17,7 +17,11 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
 
   return (
     <>
-      <div className="flex w-full gap-5">
+      <div
+        className="flex w-full gap-5 
+        justify-center items-center mx-auto p-4
+        "
+      >
         <input
           type="text"
           placeholder="Search Pal"
@@ -49,7 +53,7 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
           Clear
         </button>
       </div>
-      <div className="flex flex-wrap min-h-screen flex-row items-center mx-auto p-4 gap-1">
+      <div className="flex flex-wrap min-h-screen flex-row justify-center items-center mx-auto p-4 gap-1">
         {filteredPals.map((pal) => (
           <PalCard key={pal.id} pal={pal} />
         ))}
@@ -61,8 +65,9 @@ const PalsList = ({ pals }: { pals: Pal[] }) => {
 const PalCard = ({ pal }: { pal: Pal }) => {
   return (
     <div
-      key={pal.id}
-      className="w-full lg:w-1/4 xl:w-1/5 sm:w-1/3 flex flex-col gap-2 items-center justify-between border-2 border-gray-200 rounded-lg lg:m-4 lg:p-4"
+      className="w-full lg:w-1/4 xl:w-1/5 sm:w-1/4 xs:w-1/3
+    flex flex-col gap-2 items-center justify-between border-2 border-gray-200 rounded-lg 
+    m-4 p-4"
     >
       <PalAvatar pal={pal} />
       <p className="font-bold">
