@@ -91,6 +91,7 @@ const PalCard = ({ pal, index }: { pal: Pal; index: number }) => {
       className="w-full lg:w-1/4 xl:w-1/5 sm:w-1/4 xs:w-1/3
     flex flex-col gap-2 items-center justify-between border-2 border-gray-200 rounded-lg 
     m-4 p-4 min-h-80"
+      aria-label={`More info about ${pal.name}`}
     >
       {isInView ? (
         <>
